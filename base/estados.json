@@ -1,0 +1,191 @@
+[
+  {
+    "ibge": 11,
+    "nome": "Rondônia",
+    "uf": "RO",
+    "regiao": "Norte",
+    "mun": 52
+  },
+  {
+    "ibge": 12,
+    "nome": "Acre",
+    "uf": "AC",
+    "regiao": "Norte",
+    "mun": 22
+  },
+  {
+    "ibge": 13,
+    "nome": "Amazonas",
+    "uf": "AM",
+    "regiao": "Norte",
+    "mun": 62
+  },
+  {
+    "ibge": 14,
+    "nome": "Roraima",
+    "uf": "RR",
+    "regiao": "Norte",
+    "mun": 15
+  },
+  {
+    "ibge": 15,
+    "nome": "Pará",
+    "uf": "PA",
+    "regiao": "Norte",
+    "mun": 144
+  },
+  {
+    "ibge": 16,
+    "nome": "Amapá",
+    "uf": "AP",
+    "regiao": "Norte",
+    "mun": 16
+  },
+  {
+    "ibge": 17,
+    "nome": "Tocantins",
+    "uf": "TO",
+    "regiao": "Norte",
+    "mun": 139
+  },
+  {
+    "ibge": 21,
+    "nome": "Maranhão",
+    "uf": "MA",
+    "regiao": "Nordeste",
+    "mun": 217
+  },
+  {
+    "ibge": 22,
+    "nome": "Piauí",
+    "uf": "PI",
+    "regiao": "Nordeste",
+    "mun": 224
+  },
+  {
+    "ibge": 23,
+    "nome": "Ceará",
+    "uf": "CE",
+    "regiao": "Nordeste",
+    "mun": 184
+  },
+  {
+    "ibge": 24,
+    "nome": "Rio Grande do Norte",
+    "uf": "RN",
+    "regiao": "Nordeste",
+    "mun": 167
+  },
+  {
+    "ibge": 25,
+    "nome": "Paraíba",
+    "uf": "PB",
+    "regiao": "Nordeste",
+    "mun": 223
+  },
+  {
+    "ibge": 26,
+    "nome": "Pernambuco",
+    "uf": "PE",
+    "regiao": "Nordeste",
+    "mun": 185
+  },
+  {
+    "ibge": 27,
+    "nome": "Alagoas",
+    "uf": "AL",
+    "regiao": "Nordeste",
+    "mun": 102
+  },
+  {
+    "ibge": 28,
+    "nome": "Sergipe",
+    "uf": "SE",
+    "regiao": "Nordeste",
+    "mun": 75
+  },
+  {
+    "ibge": 29,
+    "nome": "Bahia",
+    "uf": "BA",
+    "regiao": "Nordeste",
+    "mun": 417
+  },
+  {
+    "ibge": 31,
+    "nome": "Minas Gerais",
+    "uf": "MG",
+    "regiao": "Sudeste",
+    "mun": 853
+  },
+  {
+    "ibge": 32,
+    "nome": "Espírito Santo",
+    "uf": "ES",
+    "regiao": "Sudeste",
+    "mun": 78
+  },
+  {
+    "ibge": 33,
+    "nome": "Rio de Janeiro",
+    "uf": "RJ",
+    "regiao": "Sudeste",
+    "mun": 92
+  },
+  {
+    "ibge": 35,
+    "nome": "São Paulo",
+    "uf": "SP",
+    "regiao": "Sudeste",
+    "mun": 645
+  },
+  {
+    "ibge": 41,
+    "nome": "Paraná",
+    "uf": "PR",
+    "regiao": "Sul",
+    "mun": 399
+  },
+  {
+    "ibge": 42,
+    "nome": "Santa Catarina",
+    "uf": "SC",
+    "regiao": "Sul",
+    "mun": 295
+  },
+  {
+    "ibge": 43,
+    "nome": "Rio Grande do Sul",
+    "uf": "RS",
+    "regiao": "Sul",
+    "mun": 497
+  },
+  {
+    "ibge": 50,
+    "nome": "Mato Grosso do Sul",
+    "uf": "MS",
+    "regiao": "Centro-Oeste",
+    "mun": 79
+  },
+  {
+    "ibge": 51,
+    "nome": "Mato Grosso",
+    "uf": "MT",
+    "regiao": "Centro-Oeste",
+    "mun": 141
+  },
+  {
+    "ibge": 52,
+    "nome": "Goiás",
+    "uf": "GO",
+    "regiao": "Centro-Oeste",
+    "mun": 246
+  },
+  {
+    "ibge": 53,
+    "nome": "Distrito Federal",
+    "uf": "DF",
+    "regiao": "Centro-Oeste",
+    "mun": 1
+  }
+]

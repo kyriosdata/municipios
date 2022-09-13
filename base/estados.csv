@@ -1,0 +1,28 @@
+IBGE;estado;UF;Região;Qtd Mun
+11;Rondônia;RO;Norte;52
+12;Acre;AC;Norte;22
+13;Amazonas;AM;Norte;62
+14;Roraima;RR;Norte;15
+15;Pará;PA;Norte;144
+16;Amapá;AP;Norte;16
+17;Tocantins;TO;Norte;139
+21;Maranhão;MA;Nordeste;217
+22;Piauí;PI;Nordeste;224
+23;Ceará;CE;Nordeste;184
+24;Rio Grande do Norte;RN;Nordeste;167
+25;Paraíba;PB;Nordeste;223
+26;Pernambuco;PE;Nordeste;185
+27;Alagoas;AL;Nordeste;102
+28;Sergipe;SE;Nordeste;75
+29;Bahia;BA;Nordeste;417
+31;Minas Gerais;MG;Sudeste;853
+32;Espírito Santo;ES;Sudeste;78
+33;Rio de Janeiro;RJ;Sudeste;92
+35;São Paulo;SP;Sudeste;645
+41;Paraná;PR;Sul;399
+42;Santa Catarina;SC;Sul;295
+43;Rio Grande do Sul;RS;Sul;497
+50;Mato Grosso do Sul;MS;Centro-Oeste;79
+51;Mato Grosso;MT;Centro-Oeste;141
+52;Goiás;GO;Centro-Oeste;246
+53;Distrito Federal;DF;Centro-Oeste;1
