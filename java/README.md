@@ -18,7 +18,9 @@ dependencies {
 
 ## Desenvolvedores (token e deploy)
 
-Criar token a ser fornecido em settings.xml a partir de Settings (usuário),
-Developer Settings, Personal Access Tokens. 
+Criar token a ser fornecido em **settings.xml** a partir de _Settings_ (usuário),
+_Developer Settings_ e _Personal Access Tokens_. 
+
+Comando para efetuar _deploy_ (disponibilizar _package_ no Github): 
 
 - `mvn --batch-mode deploy`
