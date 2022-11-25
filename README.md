@@ -13,4 +13,6 @@ por nome (parte do nome).
 
 - Município (nome)
 - Índice (valor único e fixo entre 0 e 5569)
-- IBGE (código de 7 dígitos)
+- IBGE (código de 7 dígitos). 
+- Gentílicos em CodeSystem.(xml|json). Observe que o código de 6 dígitos,
+quando acrescido do dígito verificador, forma o código de 7 dígitos.
