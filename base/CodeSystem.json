@@ -20533,11 +20533,5207 @@
           ]
         },
         {
-          "code": "34",
+          "code": "35",
           "display": "São Paulo",
           "property": [
             { "code": "type", "valueCode": "state" },
-            { "code": "initials", "valueCode": "SP" }
+            { "code": "initials", "valueCode": "SP" },
+            { "code": "ethnical", "valueCode": "paulista" }
+          ],
+          "concept": [
+            {
+              "code": 350010,
+              "display": "Adamantina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "adamantinense" }
+              ]
+            },
+            {
+              "code": 350020,
+              "display": "Adolfo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "adolfino" }
+              ]
+            },
+            {
+              "code": 350030,
+              "display": "Aguaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "aguaiano" }
+              ]
+            },
+            {
+              "code": 350040,
+              "display": "Águas da Prata",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "água-pratense" }
+              ]
+            },
+            {
+              "code": 350050,
+              "display": "Águas de Lindóia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lindoiense" }
+              ]
+            },
+            {
+              "code": 350055,
+              "display": "Águas de Santa Bárbara",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-barbarense" }
+              ]
+            },
+            {
+              "code": 350060,
+              "display": "Águas de São Pedro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "água-pedrense" }
+              ]
+            },
+            {
+              "code": 350070,
+              "display": "Agudos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "agudense" }
+              ]
+            },
+            {
+              "code": 350075,
+              "display": "Alambari",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "alambariense" }
+              ]
+            },
+            {
+              "code": 350080,
+              "display": "Alfredo Marcondes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "marcondense" }
+              ]
+            },
+            {
+              "code": 350090,
+              "display": "Altair",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "altairense" }
+              ]
+            },
+            {
+              "code": 350100,
+              "display": "Altinópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "altinopolense" }
+              ]
+            },
+            {
+              "code": 350110,
+              "display": "Alto Alegre",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "alto-alegrense" }
+              ]
+            },
+            {
+              "code": 350115,
+              "display": "Alumínio",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "aluminense" }
+              ]
+            },
+            {
+              "code": 350120,
+              "display": "Álvares Florence",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "florencense" }
+              ]
+            },
+            {
+              "code": 350130,
+              "display": "Álvares Machado",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "machadense" }
+              ]
+            },
+            {
+              "code": 350140,
+              "display": "Álvaro de Carvalho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "álvaro-carvalhense" }
+              ]
+            },
+            {
+              "code": 350150,
+              "display": "Alvinlândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "alvinlandense" }
+              ]
+            },
+            {
+              "code": 350160,
+              "display": "Americana",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "americanense" }
+              ]
+            },
+            {
+              "code": 350170,
+              "display": "Américo Brasiliense",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ameriliense" }
+              ]
+            },
+            {
+              "code": 350180,
+              "display": "Américo de Campos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "américo-campista ou americampense"
+                }
+              ]
+            },
+            {
+              "code": 350190,
+              "display": "Amparo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "amparense" }
+              ]
+            },
+            {
+              "code": 350200,
+              "display": "Analândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "analandense" }
+              ]
+            },
+            {
+              "code": 350210,
+              "display": "Andradina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "andradinense" }
+              ]
+            },
+            {
+              "code": 350220,
+              "display": "Angatuba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "angatubense" }
+              ]
+            },
+            {
+              "code": 350230,
+              "display": "Anhembi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "anhembiense" }
+              ]
+            },
+            {
+              "code": 350240,
+              "display": "Anhumas",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "anhumense" }
+              ]
+            },
+            {
+              "code": 350250,
+              "display": "Aparecida",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "aparecidense" }
+              ]
+            },
+            {
+              "code": 350260,
+              "display": "Aparecida d'Oeste",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "oesteaparecidense" }
+              ]
+            },
+            {
+              "code": 350270,
+              "display": "Apiaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "apiaiense" }
+              ]
+            },
+            {
+              "code": 350275,
+              "display": "Araçariguama",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "araçariguamense" }
+              ]
+            },
+            {
+              "code": 350280,
+              "display": "Araçatuba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "araçatubense" }
+              ]
+            },
+            {
+              "code": 350290,
+              "display": "Araçoiaba da Serra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "araçoiabano" }
+              ]
+            },
+            {
+              "code": 350300,
+              "display": "Aramina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "araminense" }
+              ]
+            },
+            {
+              "code": 350310,
+              "display": "Arandu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "aranduense" }
+              ]
+            },
+            {
+              "code": 350315,
+              "display": "Arapeí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "arapeiense" }
+              ]
+            },
+            {
+              "code": 350320,
+              "display": "Araraquara",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "araraquarense" }
+              ]
+            },
+            {
+              "code": 350330,
+              "display": "Araras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ararense" }
+              ]
+            },
+            {
+              "code": 350335,
+              "display": "Arco-Íris",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "arco-irense" }
+              ]
+            },
+            {
+              "code": 350340,
+              "display": "Arealva",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "arealvense" }
+              ]
+            },
+            {
+              "code": 350350,
+              "display": "Areias",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "areiense" }
+              ]
+            },
+            {
+              "code": 350360,
+              "display": "Areiópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "Areiopolitano" }
+              ]
+            },
+            {
+              "code": 350370,
+              "display": "Ariranha",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ariranhense" }
+              ]
+            },
+            {
+              "code": 350380,
+              "display": "Artur Nogueira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nogueirense" }
+              ]
+            },
+            {
+              "code": 350390,
+              "display": "Arujá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "arujaense" }
+              ]
+            },
+            {
+              "code": 350395,
+              "display": "Aspásia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "aspasiense" }
+              ]
+            },
+            {
+              "code": 350400,
+              "display": "Assis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "assisense" }
+              ]
+            },
+            {
+              "code": 350410,
+              "display": "Atibaia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "atibaiense ou atibaiano" }
+              ]
+            },
+            {
+              "code": 350420,
+              "display": "Auriflama",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "auriflamense" }
+              ]
+            },
+            {
+              "code": 350430,
+              "display": "Avaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "avaiense" }
+              ]
+            },
+            {
+              "code": 350440,
+              "display": "Avanhandava",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "avanhandavense" }
+              ]
+            },
+            {
+              "code": 350450,
+              "display": "Avaré",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "avareense" }
+              ]
+            },
+            {
+              "code": 350460,
+              "display": "Bady Bassitt",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "badiense, bassitense" }
+              ]
+            },
+            {
+              "code": 350470,
+              "display": "Balbinos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "balbinense" }
+              ]
+            },
+            {
+              "code": 350480,
+              "display": "Bálsamo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "balsamense" }
+              ]
+            },
+            {
+              "code": 350490,
+              "display": "Bananal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bananalense" }
+              ]
+            },
+            {
+              "code": 350500,
+              "display": "Barão de Antonina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barão-antoniniense" }
+              ]
+            },
+            {
+              "code": 350510,
+              "display": "Barbosa",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barbosense" }
+              ]
+            },
+            {
+              "code": 350520,
+              "display": "Bariri",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "baririense" }
+              ]
+            },
+            {
+              "code": 350530,
+              "display": "Barra Bonita",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barra-bonitense" }
+              ]
+            },
+            {
+              "code": 350535,
+              "display": "Barra do Chapéu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barrense" }
+              ]
+            },
+            {
+              "code": 350540,
+              "display": "Barra do Turvo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barra-turvense" }
+              ]
+            },
+            {
+              "code": 350550,
+              "display": "Barretos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barretense" }
+              ]
+            },
+            {
+              "code": 350560,
+              "display": "Barrinha",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barrinhense" }
+              ]
+            },
+            {
+              "code": 350570,
+              "display": "Barueri",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barueriense" }
+              ]
+            },
+            {
+              "code": 350580,
+              "display": "Bastos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bastense" }
+              ]
+            },
+            {
+              "code": 350590,
+              "display": "Batatais",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "batataense" }
+              ]
+            },
+            {
+              "code": 350600,
+              "display": "Bauru",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bauruense" }
+              ]
+            },
+            {
+              "code": 350610,
+              "display": "Bebedouro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bebedourense" }
+              ]
+            },
+            {
+              "code": 350620,
+              "display": "Bento de Abreu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bento-abreuense" }
+              ]
+            },
+            {
+              "code": 350630,
+              "display": "Bernardino de Campos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bernardinense" }
+              ]
+            },
+            {
+              "code": 350635,
+              "display": "Bertioga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bertioguense" }
+              ]
+            },
+            {
+              "code": 350640,
+              "display": "Bilac",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bilaquense" }
+              ]
+            },
+            {
+              "code": 350650,
+              "display": "Birigui",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "biriguiense" }
+              ]
+            },
+            {
+              "code": 350660,
+              "display": "Biritiba Mirim",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "biritibense" }
+              ]
+            },
+            {
+              "code": 350670,
+              "display": "Boa Esperança do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "boa-esperancense" }
+              ]
+            },
+            {
+              "code": 350680,
+              "display": "Bocaina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bocainense" }
+              ]
+            },
+            {
+              "code": 350690,
+              "display": "Bofete",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bofetense" }
+              ]
+            },
+            {
+              "code": 350700,
+              "display": "Boituva",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "boituvense" }
+              ]
+            },
+            {
+              "code": 350710,
+              "display": "Bom Jesus dos Perdões",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 350715,
+              "display": "Bom Sucesso de Itararé",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 350720,
+              "display": "Borá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "boraense" }
+              ]
+            },
+            {
+              "code": 350730,
+              "display": "Boracéia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 350740,
+              "display": "Borborema",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "borboremense" }
+              ]
+            },
+            {
+              "code": 350745,
+              "display": "Borebi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "borebiense" }
+              ]
+            },
+            {
+              "code": 350750,
+              "display": "Botucatu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "botucatuense" }
+              ]
+            },
+            {
+              "code": 350760,
+              "display": "Bragança Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bragantino" }
+              ]
+            },
+            {
+              "code": 350770,
+              "display": "Braúna",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "braunense" }
+              ]
+            },
+            {
+              "code": 350775,
+              "display": "Brejo Alegre",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "brejo-alegrense" }
+              ]
+            },
+            {
+              "code": 350780,
+              "display": "Brodowski",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "brodosquiano" }
+              ]
+            },
+            {
+              "code": 350790,
+              "display": "Brotas",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "brotense" }
+              ]
+            },
+            {
+              "code": 350800,
+              "display": "Buri",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "buriense" }
+              ]
+            },
+            {
+              "code": 350810,
+              "display": "Buritama",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "buritamense" }
+              ]
+            },
+            {
+              "code": 350820,
+              "display": "Buritizal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "buritizalense" }
+              ]
+            },
+            {
+              "code": 350830,
+              "display": "Cabrália Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cabraliense" }
+              ]
+            },
+            {
+              "code": 350840,
+              "display": "Cabreúva",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cabreuvano" }
+              ]
+            },
+            {
+              "code": 350850,
+              "display": "Caçapava",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "caçapavense" }
+              ]
+            },
+            {
+              "code": 350860,
+              "display": "Cachoeira Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cachoeirense" }
+              ]
+            },
+            {
+              "code": 350870,
+              "display": "Caconde",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cacondense" }
+              ]
+            },
+            {
+              "code": 350880,
+              "display": "Cafelândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cafelandense" }
+              ]
+            },
+            {
+              "code": 350890,
+              "display": "Caiabu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "caiabuense" }
+              ]
+            },
+            {
+              "code": 350900,
+              "display": "Caieiras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "caieirense" }
+              ]
+            },
+            {
+              "code": 350910,
+              "display": "Caiuá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "caiuaense" }
+              ]
+            },
+            {
+              "code": 350920,
+              "display": "Cajamar",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cajamarense" }
+              ]
+            },
+            {
+              "code": 350925,
+              "display": "Cajati",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cajatiense" }
+              ]
+            },
+            {
+              "code": 350930,
+              "display": "Cajobi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cajobiense" }
+              ]
+            },
+            {
+              "code": 350940,
+              "display": "Cajuru",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cajuruense" }
+              ]
+            },
+            {
+              "code": 350945,
+              "display": "Campina do Monte Alegre",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "monte-alegrense, campino"
+                }
+              ]
+            },
+            {
+              "code": 350950,
+              "display": "Campinas",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "campineiro" }
+              ]
+            },
+            {
+              "code": 350960,
+              "display": "Campo Limpo Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "campo-limpense" }
+              ]
+            },
+            {
+              "code": 350970,
+              "display": "Campos do Jordão",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jordanense" }
+              ]
+            },
+            {
+              "code": 350980,
+              "display": "Campos Novos Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "campo-limpense" }
+              ]
+            },
+            {
+              "code": 350990,
+              "display": "Cananéia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 350995,
+              "display": "Canas",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "canense" }
+              ]
+            },
+            {
+              "code": 351000,
+              "display": "Cândido Mota",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cândido-motense" }
+              ]
+            },
+            {
+              "code": 351010,
+              "display": "Cândido Rodrigues",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "candido-rodriguense" }
+              ]
+            },
+            {
+              "code": 351015,
+              "display": "Canitar",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "canitarense" }
+              ]
+            },
+            {
+              "code": 351020,
+              "display": "Capão Bonito",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "capão-bonitense" }
+              ]
+            },
+            {
+              "code": 351030,
+              "display": "Capela do Alto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "capelense" }
+              ]
+            },
+            {
+              "code": 351040,
+              "display": "Capivari",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "capivariano" }
+              ]
+            },
+            {
+              "code": 351050,
+              "display": "Caraguatatuba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "caraguatatubense" }
+              ]
+            },
+            {
+              "code": 351060,
+              "display": "Carapicuíba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "carapicuibano" }
+              ]
+            },
+            {
+              "code": 351070,
+              "display": "Cardoso",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cardosense" }
+              ]
+            },
+            {
+              "code": 351080,
+              "display": "Casa Branca",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "casa-branquense" }
+              ]
+            },
+            {
+              "code": 351090,
+              "display": "Cássia dos Coqueiros",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cássia-dos-coqueirenses" }
+              ]
+            },
+            {
+              "code": 351100,
+              "display": "Castilho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "castilhense" }
+              ]
+            },
+            {
+              "code": 351110,
+              "display": "Catanduva",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "catanduvense" }
+              ]
+            },
+            {
+              "code": 351120,
+              "display": "Catiguá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "catiguaense" }
+              ]
+            },
+            {
+              "code": 351130,
+              "display": "Cedral",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cedralense" }
+              ]
+            },
+            {
+              "code": 351140,
+              "display": "Cerqueira César",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cerqueirense" }
+              ]
+            },
+            {
+              "code": 351150,
+              "display": "Cerquilho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cerquilhense" }
+              ]
+            },
+            {
+              "code": 351160,
+              "display": "Cesário Lange",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cesário-langense" }
+              ]
+            },
+            {
+              "code": 351170,
+              "display": "Charqueada",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "charqueadense" }
+              ]
+            },
+            {
+              "code": 355720,
+              "display": "Chavantes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "chavantense" }
+              ]
+            },
+            {
+              "code": 351190,
+              "display": "Clementina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "clementinense" }
+              ]
+            },
+            {
+              "code": 351200,
+              "display": "Colina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "colinense" }
+              ]
+            },
+            {
+              "code": 351210,
+              "display": "Colômbia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "colombiense" }
+              ]
+            },
+            {
+              "code": 351220,
+              "display": "Conchal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "conchalense" }
+              ]
+            },
+            {
+              "code": 351230,
+              "display": "Conchas",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "conchense" }
+              ]
+            },
+            {
+              "code": 351240,
+              "display": "Cordeirópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cordeiropolense" }
+              ]
+            },
+            {
+              "code": 351250,
+              "display": "Coroados",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "coroadense" }
+              ]
+            },
+            {
+              "code": 351260,
+              "display": "Coronel Macedo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "macedense" }
+              ]
+            },
+            {
+              "code": 351270,
+              "display": "Corumbataí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "corumbataiense" }
+              ]
+            },
+            {
+              "code": 351280,
+              "display": "Cosmópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cosmopolense" }
+              ]
+            },
+            {
+              "code": 351290,
+              "display": "Cosmorama",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cosmoramense" }
+              ]
+            },
+            {
+              "code": 351300,
+              "display": "Cotia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cotiano" }
+              ]
+            },
+            {
+              "code": 351310,
+              "display": "Cravinhos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cravinhense" }
+              ]
+            },
+            {
+              "code": 351320,
+              "display": "Cristais Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cristalense" }
+              ]
+            },
+            {
+              "code": 351330,
+              "display": "Cruzália",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cruzaliense" }
+              ]
+            },
+            {
+              "code": 351340,
+              "display": "Cruzeiro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cruzeirense" }
+              ]
+            },
+            {
+              "code": 351350,
+              "display": "Cubatão",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cubatonense" }
+              ]
+            },
+            {
+              "code": 351360,
+              "display": "Cunha",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "cunhense" }
+              ]
+            },
+            {
+              "code": 351370,
+              "display": "Descalvado",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "descalvadense" }
+              ]
+            },
+            {
+              "code": 351380,
+              "display": "Diadema",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "diademense" }
+              ]
+            },
+            {
+              "code": 351385,
+              "display": "Dirce Reis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "dircense" }
+              ]
+            },
+            {
+              "code": 351390,
+              "display": "Divinolândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "divinolandense" }
+              ]
+            },
+            {
+              "code": 351400,
+              "display": "Dobrada",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "dobradense" }
+              ]
+            },
+            {
+              "code": 351410,
+              "display": "Dois Córregos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "dois-correguense" }
+              ]
+            },
+            {
+              "code": 351420,
+              "display": "Dolcinópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "dolcinopolense" }
+              ]
+            },
+            {
+              "code": 351430,
+              "display": "Dourado",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "douradense" }
+              ]
+            },
+            {
+              "code": 351440,
+              "display": "Dracena",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "dracenense" }
+              ]
+            },
+            {
+              "code": 351450,
+              "display": "Duartina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "duartinense" }
+              ]
+            },
+            {
+              "code": 351460,
+              "display": "Dumont",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "dumonense" }
+              ]
+            },
+            {
+              "code": 351470,
+              "display": "Echaporã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "echaporense" }
+              ]
+            },
+            {
+              "code": 351480,
+              "display": "Eldorado",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "eldoradense" }
+              ]
+            },
+            {
+              "code": 351490,
+              "display": "Elias Fausto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "elias-faustense" }
+              ]
+            },
+            {
+              "code": 351492,
+              "display": "Elisiário",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "elisiariense" }
+              ]
+            },
+            {
+              "code": 351495,
+              "display": "Embaúba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "embaubense" }
+              ]
+            },
+            {
+              "code": 351500,
+              "display": "Embu das Artes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "embuense" }
+              ]
+            },
+            {
+              "code": 351510,
+              "display": "Embu-Guaçu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "embu-guaçuense" }
+              ]
+            },
+            {
+              "code": 351512,
+              "display": "Emilianópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351515,
+              "display": "Engenheiro Coelho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "coelhense, engenheiro-coelhense"
+                }
+              ]
+            },
+            {
+              "code": 351518,
+              "display": "Espírito Santo do Pinhal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pinhalense" }
+              ]
+            },
+            {
+              "code": 351519,
+              "display": "Espírito Santo do Turvo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "espírito-santense" }
+              ]
+            },
+            {
+              "code": 355730,
+              "display": "Estiva Gerbi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "estivense" }
+              ]
+            },
+            {
+              "code": 351530,
+              "display": "Estrela do Norte",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "estrelense" }
+              ]
+            },
+            {
+              "code": 351520,
+              "display": "Estrela d'Oeste",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "estrelense" }
+              ]
+            },
+            {
+              "code": 351535,
+              "display": "Euclides da Cunha Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "euclidense" }
+              ]
+            },
+            {
+              "code": 351540,
+              "display": "Fartura",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "farturense" }
+              ]
+            },
+            {
+              "code": 351560,
+              "display": "Fernando Prestes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "fernando-prestense" }
+              ]
+            },
+            {
+              "code": 351550,
+              "display": "Fernandópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "fernandopolense" }
+              ]
+            },
+            {
+              "code": 351565,
+              "display": "Fernão",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351570,
+              "display": "Ferraz de Vasconcelos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ferrazense" }
+              ]
+            },
+            {
+              "code": 351580,
+              "display": "Flora Rica",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351590,
+              "display": "Floreal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351600,
+              "display": "Flórida Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351610,
+              "display": "Florínea",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351620,
+              "display": "Franca",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "francano" }
+              ]
+            },
+            {
+              "code": 351630,
+              "display": "Francisco Morato",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "moratense" }
+              ]
+            },
+            {
+              "code": 351640,
+              "display": "Franco da Rocha",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "franco-rochense" }
+              ]
+            },
+            {
+              "code": 351650,
+              "display": "Gabriel Monteiro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351660,
+              "display": "Gália",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351670,
+              "display": "Garça",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351680,
+              "display": "Gastão Vidigal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351685,
+              "display": "Gavião Peixoto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "gavionense" }
+              ]
+            },
+            {
+              "code": 351690,
+              "display": "General Salgado",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351700,
+              "display": "Getulina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351710,
+              "display": "Glicério",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351720,
+              "display": "Guaiçara",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351730,
+              "display": "Guaimbê",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351740,
+              "display": "Guaíra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guairense" }
+              ]
+            },
+            {
+              "code": 351750,
+              "display": "Guapiaçu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351760,
+              "display": "Guapiara",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guapiarense" }
+              ]
+            },
+            {
+              "code": 351770,
+              "display": "Guará",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351780,
+              "display": "Guaraçaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351790,
+              "display": "Guaraci",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351800,
+              "display": "Guarani d'Oeste",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351810,
+              "display": "Guarantã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351820,
+              "display": "Guararapes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351830,
+              "display": "Guararema",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351840,
+              "display": "Guaratinguetá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guaratinguetaense" }
+              ]
+            },
+            {
+              "code": 351850,
+              "display": "Guareí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guareiense" }
+              ]
+            },
+            {
+              "code": 351860,
+              "display": "Guariba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guaribense" }
+              ]
+            },
+            {
+              "code": 351870,
+              "display": "Guarujá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guarujaense" }
+              ]
+            },
+            {
+              "code": 351880,
+              "display": "Guarulhos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guarulhense" }
+              ]
+            },
+            {
+              "code": 351885,
+              "display": "Guatapará",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guarataparaense" }
+              ]
+            },
+            {
+              "code": 351890,
+              "display": "Guzolândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 351900,
+              "display": "Herculândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "herculandense" }
+              ]
+            },
+            {
+              "code": 351905,
+              "display": "Holambra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "holambrense" }
+              ]
+            },
+            {
+              "code": 351907,
+              "display": "Hortolândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "hortolandense" }
+              ]
+            },
+            {
+              "code": 351910,
+              "display": "Iacanga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iacanguense" }
+              ]
+            },
+            {
+              "code": 351920,
+              "display": "Iacri",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iacriense" }
+              ]
+            },
+            {
+              "code": 351925,
+              "display": "Iaras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iarense" }
+              ]
+            },
+            {
+              "code": 351930,
+              "display": "Ibaté",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ibateense" }
+              ]
+            },
+            {
+              "code": 351940,
+              "display": "Ibirá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ibiraense" }
+              ]
+            },
+            {
+              "code": 351950,
+              "display": "Ibirarema",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ibiraremense" }
+              ]
+            },
+            {
+              "code": 351960,
+              "display": "Ibitinga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ibitinguense" }
+              ]
+            },
+            {
+              "code": 351970,
+              "display": "Ibiúna",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ibiunense" }
+              ]
+            },
+            {
+              "code": 351980,
+              "display": "Icém",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "icemense" }
+              ]
+            },
+            {
+              "code": 351990,
+              "display": "Iepê",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iepense" }
+              ]
+            },
+            {
+              "code": 352000,
+              "display": "Igaraçu do Tietê",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "igaraçuense" }
+              ]
+            },
+            {
+              "code": 352010,
+              "display": "Igarapava",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "igarapavense" }
+              ]
+            },
+            {
+              "code": 352020,
+              "display": "Igaratá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "igaratense" }
+              ]
+            },
+            {
+              "code": 352030,
+              "display": "Iguape",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iguapense" }
+              ]
+            },
+            {
+              "code": 352042,
+              "display": "Ilha Comprida",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "Ilha Compridense" }
+              ]
+            },
+            {
+              "code": 352044,
+              "display": "Ilha Solteira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ilheense" }
+              ]
+            },
+            {
+              "code": 352040,
+              "display": "Ilhabela",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ilhabelense" }
+              ]
+            },
+            {
+              "code": 352050,
+              "display": "Indaiatuba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "indaiatubano" }
+              ]
+            },
+            {
+              "code": 352060,
+              "display": "Indiana",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "indianense" }
+              ]
+            },
+            {
+              "code": 352070,
+              "display": "Indiaporã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "indiaporãense" }
+              ]
+            },
+            {
+              "code": 352080,
+              "display": "Inúbia Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "inubiênse" }
+              ]
+            },
+            {
+              "code": 352090,
+              "display": "Ipaussu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ipaussuense" }
+              ]
+            },
+            {
+              "code": 352100,
+              "display": "Iperó",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iperoense" }
+              ]
+            },
+            {
+              "code": 352110,
+              "display": "Ipeúna",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ipeunense" }
+              ]
+            },
+            {
+              "code": 352115,
+              "display": "Ipiguá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ipiguaense" }
+              ]
+            },
+            {
+              "code": 352120,
+              "display": "Iporanga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iporanguense" }
+              ]
+            },
+            {
+              "code": 352130,
+              "display": "Ipuã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ipuanense" }
+              ]
+            },
+            {
+              "code": 352140,
+              "display": "Iracemápolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iracemapolense" }
+              ]
+            },
+            {
+              "code": 352150,
+              "display": "Irapuã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "irapuanense" }
+              ]
+            },
+            {
+              "code": 352160,
+              "display": "Irapuru",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 352170,
+              "display": "Itaberá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itaberaense" }
+              ]
+            },
+            {
+              "code": 352180,
+              "display": "Itaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itaiense" }
+              ]
+            },
+            {
+              "code": 352190,
+              "display": "Itajobi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itajobiense" }
+              ]
+            },
+            {
+              "code": 352200,
+              "display": "Itaju",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itajuense" }
+              ]
+            },
+            {
+              "code": 352210,
+              "display": "Itanhaém",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itanhaense" }
+              ]
+            },
+            {
+              "code": 352215,
+              "display": "Itaoca",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itaoquense" }
+              ]
+            },
+            {
+              "code": 352220,
+              "display": "Itapecerica da Serra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapecericano" }
+              ]
+            },
+            {
+              "code": 352230,
+              "display": "Itapetininga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapetiningano" }
+              ]
+            },
+            {
+              "code": 352240,
+              "display": "Itapeva",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapevense" }
+              ]
+            },
+            {
+              "code": 352250,
+              "display": "Itapevi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapeviense" }
+              ]
+            },
+            {
+              "code": 352260,
+              "display": "Itapira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapirense" }
+              ]
+            },
+            {
+              "code": 352265,
+              "display": "Itapirapuã Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapirapuense-paulista" }
+              ]
+            },
+            {
+              "code": 352270,
+              "display": "Itápolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapolitano" }
+              ]
+            },
+            {
+              "code": 352280,
+              "display": "Itaporanga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itaporanguense" }
+              ]
+            },
+            {
+              "code": 352290,
+              "display": "Itapuí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapuiense" }
+              ]
+            },
+            {
+              "code": 352300,
+              "display": "Itapura",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itapurense" }
+              ]
+            },
+            {
+              "code": 352310,
+              "display": "Itaquaquecetuba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itaquaquecetubano" }
+              ]
+            },
+            {
+              "code": 352320,
+              "display": "Itararé",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itarareense" }
+              ]
+            },
+            {
+              "code": 352330,
+              "display": "Itariri",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itaririense" }
+              ]
+            },
+            {
+              "code": 352340,
+              "display": "Itatiba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itatibense" }
+              ]
+            },
+            {
+              "code": 352350,
+              "display": "Itatinga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itatinguense" }
+              ]
+            },
+            {
+              "code": 352360,
+              "display": "Itirapina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itirapinense" }
+              ]
+            },
+            {
+              "code": 352370,
+              "display": "Itirapuã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "Itirapuã" }
+              ]
+            },
+            {
+              "code": 352380,
+              "display": "Itobi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itobiense" }
+              ]
+            },
+            {
+              "code": 352390,
+              "display": "Itu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ituano" }
+              ]
+            },
+            {
+              "code": 352400,
+              "display": "Itupeva",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "itupevense" }
+              ]
+            },
+            {
+              "code": 352410,
+              "display": "Ituverava",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ituveravense" }
+              ]
+            },
+            {
+              "code": 352420,
+              "display": "Jaborandi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jaborandiense" }
+              ]
+            },
+            {
+              "code": 352430,
+              "display": "Jaboticabal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jaboticabalense" }
+              ]
+            },
+            {
+              "code": 352440,
+              "display": "Jacareí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jacareiense" }
+              ]
+            },
+            {
+              "code": 352450,
+              "display": "Jaci",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jaciense" }
+              ]
+            },
+            {
+              "code": 352460,
+              "display": "Jacupiranga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jacupiranguense" }
+              ]
+            },
+            {
+              "code": 352470,
+              "display": "Jaguariúna",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jaguariunense" }
+              ]
+            },
+            {
+              "code": 352480,
+              "display": "Jales",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jalesense" }
+              ]
+            },
+            {
+              "code": 352490,
+              "display": "Jambeiro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 352500,
+              "display": "Jandira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jandirense" }
+              ]
+            },
+            {
+              "code": 352510,
+              "display": "Jardinópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jardinopolense" }
+              ]
+            },
+            {
+              "code": 352520,
+              "display": "Jarinu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jarinuense" }
+              ]
+            },
+            {
+              "code": 352530,
+              "display": "Jaú",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jauense" }
+              ]
+            },
+            {
+              "code": 352540,
+              "display": "Jeriquara",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jeriquarense" }
+              ]
+            },
+            {
+              "code": 352550,
+              "display": "Joanópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "joanopolense" }
+              ]
+            },
+            {
+              "code": 352560,
+              "display": "João Ramalho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ramalhense" }
+              ]
+            },
+            {
+              "code": 352570,
+              "display": "José Bonifácio",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bonifaciano" }
+              ]
+            },
+            {
+              "code": 352580,
+              "display": "Júlio Mesquita",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "júlio-mesquitense" }
+              ]
+            },
+            {
+              "code": 352585,
+              "display": "Jumirim",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jumirense" }
+              ]
+            },
+            {
+              "code": 352590,
+              "display": "Jundiaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jundiaiense" }
+              ]
+            },
+            {
+              "code": 352600,
+              "display": "Junqueirópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "junqueiropolense" }
+              ]
+            },
+            {
+              "code": 352610,
+              "display": "Juquiá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "juquiaense" }
+              ]
+            },
+            {
+              "code": 352620,
+              "display": "Juquitiba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "juquitibense" }
+              ]
+            },
+            {
+              "code": 352630,
+              "display": "Lagoinha",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lagoinhense" }
+              ]
+            },
+            {
+              "code": 352640,
+              "display": "Laranjal Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "laranjalense" }
+              ]
+            },
+            {
+              "code": 352650,
+              "display": "Lavínia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lavinense" }
+              ]
+            },
+            {
+              "code": 352660,
+              "display": "Lavrinhas",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lavrinhense" }
+              ]
+            },
+            {
+              "code": 352670,
+              "display": "Leme",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lemense" }
+              ]
+            },
+            {
+              "code": 352680,
+              "display": "Lençóis Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lençoense" }
+              ]
+            },
+            {
+              "code": 352690,
+              "display": "Limeira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "limeirense" }
+              ]
+            },
+            {
+              "code": 352700,
+              "display": "Lindóia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lindoiano" }
+              ]
+            },
+            {
+              "code": 352710,
+              "display": "Lins",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "linense" }
+              ]
+            },
+            {
+              "code": 352720,
+              "display": "Lorena",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lorenense" }
+              ]
+            },
+            {
+              "code": 352725,
+              "display": "Lourdes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lourdense" }
+              ]
+            },
+            {
+              "code": 352730,
+              "display": "Louveira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "louveirense" }
+              ]
+            },
+            {
+              "code": 352740,
+              "display": "Lucélia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "luceliense" }
+              ]
+            },
+            {
+              "code": 352750,
+              "display": "Lucianópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lucianopolense" }
+              ]
+            },
+            {
+              "code": 352760,
+              "display": "Luís Antônio",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "luís-antoniense" }
+              ]
+            },
+            {
+              "code": 352770,
+              "display": "Luiziânia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "luisianense" }
+              ]
+            },
+            {
+              "code": 352780,
+              "display": "Lupércio",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lupercense" }
+              ]
+            },
+            {
+              "code": 352790,
+              "display": "Lutécia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "luteciano" }
+              ]
+            },
+            {
+              "code": 352800,
+              "display": "Macatuba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "macatubense" }
+              ]
+            },
+            {
+              "code": 352810,
+              "display": "Macaubal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 352820,
+              "display": "Macedônia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "macedonienses" }
+              ]
+            },
+            {
+              "code": 352830,
+              "display": "Magda",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "magdense" }
+              ]
+            },
+            {
+              "code": 352840,
+              "display": "Mairinque",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mairinquense" }
+              ]
+            },
+            {
+              "code": 352850,
+              "display": "Mairiporã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "mairiporense, mairiporanense"
+                }
+              ]
+            },
+            {
+              "code": 352860,
+              "display": "Manduri",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "manduriense" }
+              ]
+            },
+            {
+              "code": 352870,
+              "display": "Marabá Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "marabaense ou marabá-paulistense"
+                }
+              ]
+            },
+            {
+              "code": 352880,
+              "display": "Maracaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "maracaiense" }
+              ]
+            },
+            {
+              "code": 352885,
+              "display": "Marapoama",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "marapoamense" }
+              ]
+            },
+            {
+              "code": 352890,
+              "display": "Mariápolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mariapolense" }
+              ]
+            },
+            {
+              "code": 352900,
+              "display": "Marília",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mariliense" }
+              ]
+            },
+            {
+              "code": 352910,
+              "display": "Marinópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "marinopolense" }
+              ]
+            },
+            {
+              "code": 352920,
+              "display": "Martinópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "martinopolense" }
+              ]
+            },
+            {
+              "code": 352930,
+              "display": "Matão",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "matonense" }
+              ]
+            },
+            {
+              "code": 352940,
+              "display": "Mauá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mauaense" }
+              ]
+            },
+            {
+              "code": 352950,
+              "display": "Mendonça",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mendocino" }
+              ]
+            },
+            {
+              "code": 352960,
+              "display": "Meridiano",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "meridianense" }
+              ]
+            },
+            {
+              "code": 352965,
+              "display": "Mesópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mesopolense" }
+              ]
+            },
+            {
+              "code": 352970,
+              "display": "Miguelópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "miguelopense" }
+              ]
+            },
+            {
+              "code": 352980,
+              "display": "Mineiros do Tietê",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mineiros-tieteense" }
+              ]
+            },
+            {
+              "code": 353000,
+              "display": "Mira Estrela",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mira-estrelense" }
+              ]
+            },
+            {
+              "code": 352990,
+              "display": "Miracatu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "miracatuense" }
+              ]
+            },
+            {
+              "code": 353010,
+              "display": "Mirandópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mirandopolense" }
+              ]
+            },
+            {
+              "code": 353020,
+              "display": "Mirante do Paranapanema",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mirantense" }
+              ]
+            },
+            {
+              "code": 353030,
+              "display": "Mirassol",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mirassolense" }
+              ]
+            },
+            {
+              "code": 353040,
+              "display": "Mirassolândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mirassolandense" }
+              ]
+            },
+            {
+              "code": 353050,
+              "display": "Mococa",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mocoquense" }
+              ]
+            },
+            {
+              "code": 353060,
+              "display": "Mogi das Cruzes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mojiano ou mogiano" }
+              ]
+            },
+            {
+              "code": 353070,
+              "display": "Mogi Guaçu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guaçuano" }
+              ]
+            },
+            {
+              "code": 353080,
+              "display": "Mogi Mirim",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "moji-miriano ou mogimiriano"
+                }
+              ]
+            },
+            {
+              "code": 353090,
+              "display": "Mombuca",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mombucano" }
+              ]
+            },
+            {
+              "code": 353100,
+              "display": "Monções",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "monçolense" }
+              ]
+            },
+            {
+              "code": 353110,
+              "display": "Mongaguá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mongaguaense" }
+              ]
+            },
+            {
+              "code": 353120,
+              "display": "Monte Alegre do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "monte-alegrense" }
+              ]
+            },
+            {
+              "code": 353130,
+              "display": "Monte Alto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "monte-altense" }
+              ]
+            },
+            {
+              "code": 353140,
+              "display": "Monte Aprazível",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "monte-aprazivelense" }
+              ]
+            },
+            {
+              "code": 353150,
+              "display": "Monte Azul Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "monte-azulense" }
+              ]
+            },
+            {
+              "code": 353160,
+              "display": "Monte Castelo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "montecastelense" }
+              ]
+            },
+            {
+              "code": 353180,
+              "display": "Monte Mor",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "monte-morense" }
+              ]
+            },
+            {
+              "code": 353170,
+              "display": "Monteiro Lobato",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "lobatense" }
+              ]
+            },
+            {
+              "code": 353190,
+              "display": "Morro Agudo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "morroagudense" }
+              ]
+            },
+            {
+              "code": 353200,
+              "display": "Morungaba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "morungabense" }
+              ]
+            },
+            {
+              "code": 353205,
+              "display": "Motuca",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "motuquense" }
+              ]
+            },
+            {
+              "code": 353210,
+              "display": "Murutinga do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "murutinguense" }
+              ]
+            },
+            {
+              "code": 353215,
+              "display": "Nantes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nantense" }
+              ]
+            },
+            {
+              "code": 353220,
+              "display": "Narandiba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "narandibense" }
+              ]
+            },
+            {
+              "code": 353230,
+              "display": "Natividade da Serra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nativense" }
+              ]
+            },
+            {
+              "code": 353240,
+              "display": "Nazaré Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nazareano" }
+              ]
+            },
+            {
+              "code": 353250,
+              "display": "Neves Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nevense" }
+              ]
+            },
+            {
+              "code": 353260,
+              "display": "Nhandeara",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nhandearense" }
+              ]
+            },
+            {
+              "code": 353270,
+              "display": "Nipoã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nipoense" }
+              ]
+            },
+            {
+              "code": 353280,
+              "display": "Nova Aliança",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "aliancense" }
+              ]
+            },
+            {
+              "code": 353282,
+              "display": "Nova Campina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nova-campinense" }
+              ]
+            },
+            {
+              "code": 353284,
+              "display": "Nova Canaã Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nova-canaense" }
+              ]
+            },
+            {
+              "code": 353286,
+              "display": "Nova Castilho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nova-castilhense" }
+              ]
+            },
+            {
+              "code": 353290,
+              "display": "Nova Europa",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nova-europense" }
+              ]
+            },
+            {
+              "code": 353300,
+              "display": "Nova Granada",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "granadense" }
+              ]
+            },
+            {
+              "code": 353310,
+              "display": "Nova Guataporanga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "guataporanguense" }
+              ]
+            },
+            {
+              "code": 353320,
+              "display": "Nova Independência",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "independentino" }
+              ]
+            },
+            {
+              "code": 353330,
+              "display": "Nova Luzitânia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "luzitaniense" }
+              ]
+            },
+            {
+              "code": 353340,
+              "display": "Nova Odessa",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nova-odessense" }
+              ]
+            },
+            {
+              "code": 353325,
+              "display": "Novais",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "novaense" }
+              ]
+            },
+            {
+              "code": 353350,
+              "display": "Novo Horizonte",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "novo-horizontino" }
+              ]
+            },
+            {
+              "code": 353360,
+              "display": "Nuporanga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "nuporanguense" }
+              ]
+            },
+            {
+              "code": 353370,
+              "display": "Ocauçu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ocauçuense" }
+              ]
+            },
+            {
+              "code": 353380,
+              "display": "Óleo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "oleense" }
+              ]
+            },
+            {
+              "code": 353390,
+              "display": "Olímpia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "olimpiense" }
+              ]
+            },
+            {
+              "code": 353400,
+              "display": "Onda Verde",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "onda-verdense" }
+              ]
+            },
+            {
+              "code": 353410,
+              "display": "Oriente",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "orientense ou orientalense"
+                }
+              ]
+            },
+            {
+              "code": 353420,
+              "display": "Orindiúva",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "orindiuvense" }
+              ]
+            },
+            {
+              "code": 353430,
+              "display": "Orlândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "orlandino" }
+              ]
+            },
+            {
+              "code": 353440,
+              "display": "Osasco",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "osasquense, osasquiano" }
+              ]
+            },
+            {
+              "code": 353450,
+              "display": "Oscar Bressane",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bressanense" }
+              ]
+            },
+            {
+              "code": 353460,
+              "display": "Osvaldo Cruz",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "osvaldo-cruzense" }
+              ]
+            },
+            {
+              "code": 353470,
+              "display": "Ourinhos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ourinhense" }
+              ]
+            },
+            {
+              "code": 353480,
+              "display": "Ouro Verde",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ouroverdense" }
+              ]
+            },
+            {
+              "code": 353475,
+              "display": "Ouroeste",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ouroestense" }
+              ]
+            },
+            {
+              "code": 353490,
+              "display": "Pacaembu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353500,
+              "display": "Palestina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "palestinense" }
+              ]
+            },
+            {
+              "code": 353510,
+              "display": "Palmares Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353520,
+              "display": "Palmeira d'Oeste",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "palmeirense" }
+              ]
+            },
+            {
+              "code": 353530,
+              "display": "Palmital",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353540,
+              "display": "Panorama",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353550,
+              "display": "Paraguaçu Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353560,
+              "display": "Paraibuna",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353570,
+              "display": "Paraíso",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353580,
+              "display": "Paranapanema",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353590,
+              "display": "Paranapuã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353600,
+              "display": "Parapuã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353610,
+              "display": "Pardinho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353620,
+              "display": "Pariquera-Açu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pariquerense" }
+              ]
+            },
+            {
+              "code": 353625,
+              "display": "Parisi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353630,
+              "display": "Patrocínio Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353640,
+              "display": "Paulicéia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353650,
+              "display": "Paulínia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "paulinense" }
+              ]
+            },
+            {
+              "code": 353657,
+              "display": "Paulistânia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353660,
+              "display": "Paulo de Faria",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353670,
+              "display": "Pederneiras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pederneirense" }
+              ]
+            },
+            {
+              "code": 353680,
+              "display": "Pedra Bela",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pedra-belense" }
+              ]
+            },
+            {
+              "code": 353690,
+              "display": "Pedranópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353700,
+              "display": "Pedregulho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353710,
+              "display": "Pedreira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pedreirense" }
+              ]
+            },
+            {
+              "code": 353715,
+              "display": "Pedrinhas Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pedrinhense" }
+              ]
+            },
+            {
+              "code": 353720,
+              "display": "Pedro de Toledo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353730,
+              "display": "Penápolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "penapolense" }
+              ]
+            },
+            {
+              "code": 353740,
+              "display": "Pereira Barreto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353750,
+              "display": "Pereiras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353760,
+              "display": "Peruíbe",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "peruibense" }
+              ]
+            },
+            {
+              "code": 353770,
+              "display": "Piacatu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353780,
+              "display": "Piedade",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353790,
+              "display": "Pilar do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pilarense" }
+              ]
+            },
+            {
+              "code": 353800,
+              "display": "Pindamonhangaba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pindamonhangabense" }
+              ]
+            },
+            {
+              "code": 353810,
+              "display": "Pindorama",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pindoramense" }
+              ]
+            },
+            {
+              "code": 353820,
+              "display": "Pinhalzinho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353830,
+              "display": "Piquerobi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353850,
+              "display": "Piquete",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353860,
+              "display": "Piracaia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "piracaiense" }
+              ]
+            },
+            {
+              "code": 353870,
+              "display": "Piracicaba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "piracicabano" }
+              ]
+            },
+            {
+              "code": 353880,
+              "display": "Piraju",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pirajuense" }
+              ]
+            },
+            {
+              "code": 353890,
+              "display": "Pirajuí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pirajuiense" }
+              ]
+            },
+            {
+              "code": 353900,
+              "display": "Pirangi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353910,
+              "display": "Pirapora do Bom Jesus",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "piraporano, piraporense, piraporoense, bom-jesusiano"
+                }
+              ]
+            },
+            {
+              "code": 353920,
+              "display": "Pirapozinho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353930,
+              "display": "Pirassununga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "piraçununguense" }
+              ]
+            },
+            {
+              "code": 353940,
+              "display": "Piratininga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353950,
+              "display": "Pitangueiras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353960,
+              "display": "Planalto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353970,
+              "display": "Platina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 353980,
+              "display": "Poá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "poaense" }
+              ]
+            },
+            {
+              "code": 353990,
+              "display": "Poloni",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354000,
+              "display": "Pompéia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354010,
+              "display": "Pongaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354020,
+              "display": "Pontal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pontalense" }
+              ]
+            },
+            {
+              "code": 354025,
+              "display": "Pontalinda",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354030,
+              "display": "Pontes Gestal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354040,
+              "display": "Populina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354050,
+              "display": "Porangaba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354060,
+              "display": "Porto Feliz",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "porto-felicense" }
+              ]
+            },
+            {
+              "code": 354070,
+              "display": "Porto Ferreira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ferreirense" }
+              ]
+            },
+            {
+              "code": 354075,
+              "display": "Potim",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354080,
+              "display": "Potirendaba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354085,
+              "display": "Pracinha",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354090,
+              "display": "Pradópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354100,
+              "display": "Praia Grande",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "praia-grandense" }
+              ]
+            },
+            {
+              "code": 354105,
+              "display": "Pratânia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354110,
+              "display": "Presidente Alves",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "alvense" }
+              ]
+            },
+            {
+              "code": 354120,
+              "display": "Presidente Bernardes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "bernardense" }
+              ]
+            },
+            {
+              "code": 354130,
+              "display": "Presidente Epitácio",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "epitaciano" }
+              ]
+            },
+            {
+              "code": 354140,
+              "display": "Presidente Prudente",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "prudentino" }
+              ]
+            },
+            {
+              "code": 354150,
+              "display": "Presidente Venceslau",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "venceslauense" }
+              ]
+            },
+            {
+              "code": 354160,
+              "display": "Promissão",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "promissense" }
+              ]
+            },
+            {
+              "code": 354165,
+              "display": "Quadra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "quadrense" }
+              ]
+            },
+            {
+              "code": 354170,
+              "display": "Quatá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "quataense" }
+              ]
+            },
+            {
+              "code": 354180,
+              "display": "Queiroz",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "queirosense" }
+              ]
+            },
+            {
+              "code": 354190,
+              "display": "Queluz",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "queluzense" }
+              ]
+            },
+            {
+              "code": 354200,
+              "display": "Quintana",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "quintanense" }
+              ]
+            },
+            {
+              "code": 354210,
+              "display": "Rafard",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354220,
+              "display": "Rancharia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354230,
+              "display": "Redenção da Serra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354240,
+              "display": "Regente Feijó",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354250,
+              "display": "Reginópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354260,
+              "display": "Registro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "registrense" }
+              ]
+            },
+            {
+              "code": 354270,
+              "display": "Restinga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354280,
+              "display": "Ribeira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354290,
+              "display": "Ribeirão Bonito",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ribeirão-bonitense" }
+              ]
+            },
+            {
+              "code": 354300,
+              "display": "Ribeirão Branco",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ribeirão-branquense" }
+              ]
+            },
+            {
+              "code": 354310,
+              "display": "Ribeirão Corrente",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354320,
+              "display": "Ribeirão do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354323,
+              "display": "Ribeirão dos Índios",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354325,
+              "display": "Ribeirão Grande",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354330,
+              "display": "Ribeirão Pires",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ribeirão-pirense" }
+              ]
+            },
+            {
+              "code": 354340,
+              "display": "Ribeirão Preto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ribeirão-pretano" }
+              ]
+            },
+            {
+              "code": 354360,
+              "display": "Rifaina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354370,
+              "display": "Rincão",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "rinconense" }
+              ]
+            },
+            {
+              "code": 354380,
+              "display": "Rinópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "rinopolense" }
+              ]
+            },
+            {
+              "code": 354390,
+              "display": "Rio Claro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "rio-clarense" }
+              ]
+            },
+            {
+              "code": 354400,
+              "display": "Rio das Pedras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354410,
+              "display": "Rio Grande da Serra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354420,
+              "display": "Riolândia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354350,
+              "display": "Riversul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "riversulense" }
+              ]
+            },
+            {
+              "code": 354425,
+              "display": "Rosana",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354430,
+              "display": "Roseira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354440,
+              "display": "Rubiácea",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354450,
+              "display": "Rubinéia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354460,
+              "display": "Sabino",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sabinense" }
+              ]
+            },
+            {
+              "code": 354470,
+              "display": "Sagres",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sagrense" }
+              ]
+            },
+            {
+              "code": 354480,
+              "display": "Sales",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "salense" }
+              ]
+            },
+            {
+              "code": 354490,
+              "display": "Sales Oliveira",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "salense" }
+              ]
+            },
+            {
+              "code": 354500,
+              "display": "Salesópolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "salesopolense" }
+              ]
+            },
+            {
+              "code": 354510,
+              "display": "Salmourão",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "salmoroense" }
+              ]
+            },
+            {
+              "code": 354515,
+              "display": "Saltinho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "saltinhense" }
+              ]
+            },
+            {
+              "code": 354520,
+              "display": "Salto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "saltense" }
+              ]
+            },
+            {
+              "code": 354530,
+              "display": "Salto de Pirapora",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354540,
+              "display": "Salto Grande",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "salto-grandense" }
+              ]
+            },
+            {
+              "code": 354550,
+              "display": "Sandovalina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sandovalinense" }
+              ]
+            },
+            {
+              "code": 354560,
+              "display": "Santa Adélia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-adeliense" }
+              ]
+            },
+            {
+              "code": 354570,
+              "display": "Santa Albertina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-albertinense" }
+              ]
+            },
+            {
+              "code": 354580,
+              "display": "Santa Bárbara d'Oeste",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barbarense" }
+              ]
+            },
+            {
+              "code": 354600,
+              "display": "Santa Branca",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-branquense" }
+              ]
+            },
+            {
+              "code": 354610,
+              "display": "Santa Clara d'Oeste",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa clarense" }
+              ]
+            },
+            {
+              "code": 354620,
+              "display": "Santa Cruz da Conceição",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-cruzense" }
+              ]
+            },
+            {
+              "code": 354625,
+              "display": "Santa Cruz da Esperança",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santacruzense" }
+              ]
+            },
+            {
+              "code": 354630,
+              "display": "Santa Cruz das Palmeiras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "palmeirense" }
+              ]
+            },
+            {
+              "code": 354640,
+              "display": "Santa Cruz do Rio Pardo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-cruzense" }
+              ]
+            },
+            {
+              "code": 354650,
+              "display": "Santa Ernestina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-ernestinense" }
+              ]
+            },
+            {
+              "code": 354660,
+              "display": "Santa Fé do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-fé-sulense" }
+              ]
+            },
+            {
+              "code": 354670,
+              "display": "Santa Gertrudes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "gertrudense" }
+              ]
+            },
+            {
+              "code": 354680,
+              "display": "Santa Isabel",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa isabelense" }
+              ]
+            },
+            {
+              "code": 354690,
+              "display": "Santa Lúcia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-luciense" }
+              ]
+            },
+            {
+              "code": 354700,
+              "display": "Santa Maria da Serra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santamaria-serrense" }
+              ]
+            },
+            {
+              "code": 354710,
+              "display": "Santa Mercedes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "mercedense" }
+              ]
+            },
+            {
+              "code": 354750,
+              "display": "Santa Rita do Passa Quatro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-ritense" }
+              ]
+            },
+            {
+              "code": 354740,
+              "display": "Santa Rita d'Oeste",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-ritense" }
+              ]
+            },
+            {
+              "code": 354760,
+              "display": "Santa Rosa de Viterbo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santa-rosense" }
+              ]
+            },
+            {
+              "code": 354765,
+              "display": "Santa Salete",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "saletense" }
+              ]
+            },
+            {
+              "code": 354720,
+              "display": "Santana da Ponte Pensa",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santanense" }
+              ]
+            },
+            {
+              "code": 354730,
+              "display": "Santana de Parnaíba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "parnaibano" }
+              ]
+            },
+            {
+              "code": 354770,
+              "display": "Santo Anastácio",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "anastaciano" }
+              ]
+            },
+            {
+              "code": 354780,
+              "display": "Santo André",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "andreense" }
+              ]
+            },
+            {
+              "code": 354790,
+              "display": "Santo Antônio da Alegria",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "alegriense" }
+              ]
+            },
+            {
+              "code": 354800,
+              "display": "Santo Antônio de Posse",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "possense" }
+              ]
+            },
+            {
+              "code": 354805,
+              "display": "Santo Antônio do Aracanguá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "aracanguaense" }
+              ]
+            },
+            {
+              "code": 354810,
+              "display": "Santo Antônio do Jardim",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "jardinense" }
+              ]
+            },
+            {
+              "code": 354820,
+              "display": "Santo Antônio do Pinhal",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "pinhalense" }
+              ]
+            },
+            {
+              "code": 354830,
+              "display": "Santo Expedito",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "expeditense" }
+              ]
+            },
+            {
+              "code": 354840,
+              "display": "Santópolis do Aguapeí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santopolense" }
+              ]
+            },
+            {
+              "code": 354850,
+              "display": "Santos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "santista" }
+              ]
+            },
+            {
+              "code": 354860,
+              "display": "São Bento do Sapucaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-bentista" }
+              ]
+            },
+            {
+              "code": 354870,
+              "display": "São Bernardo do Campo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-bernardense" }
+              ]
+            },
+            {
+              "code": 354880,
+              "display": "São Caetano do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sul-caetanense" }
+              ]
+            },
+            {
+              "code": 354890,
+              "display": "São Carlos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "são-carlense (sancarlense) ou carlopolitano"
+                }
+              ]
+            },
+            {
+              "code": 354900,
+              "display": "São Francisco",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-francisquense" }
+              ]
+            },
+            {
+              "code": 354910,
+              "display": "São João da Boa Vista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "são-joanense (sanjoanense)"
+                }
+              ]
+            },
+            {
+              "code": 354920,
+              "display": "São João das Duas Pontes",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-joanense" }
+              ]
+            },
+            {
+              "code": 354925,
+              "display": "São João de Iracema",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "iracemense" }
+              ]
+            },
+            {
+              "code": 354930,
+              "display": "São João do Pau d'Alho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 354940,
+              "display": "São Joaquim da Barra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "joaquinense" }
+              ]
+            },
+            {
+              "code": 354950,
+              "display": "São José da Bela Vista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "belavistense" }
+              ]
+            },
+            {
+              "code": 354960,
+              "display": "São José do Barreiro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "barreirense" }
+              ]
+            },
+            {
+              "code": 354970,
+              "display": "São José do Rio Pardo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "rio-pardense" }
+              ]
+            },
+            {
+              "code": 354980,
+              "display": "São José do Rio Preto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "rio-pretense" }
+              ]
+            },
+            {
+              "code": 354990,
+              "display": "São José dos Campos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "joseense" }
+              ]
+            },
+            {
+              "code": 354995,
+              "display": "São Lourenço da Serra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-lourensano" }
+              ]
+            },
+            {
+              "code": 355000,
+              "display": "São Luiz do Paraitinga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "luisense" }
+              ]
+            },
+            {
+              "code": 355010,
+              "display": "São Manuel",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-manuelense" }
+              ]
+            },
+            {
+              "code": 355020,
+              "display": "São Miguel Arcanjo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-miguelense" }
+              ]
+            },
+            {
+              "code": 355030,
+              "display": "São Paulo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "paulistano" }
+              ]
+            },
+            {
+              "code": 355040,
+              "display": "São Pedro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-pedrense" }
+              ]
+            },
+            {
+              "code": 355050,
+              "display": "São Pedro do Turvo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-pedrense" }
+              ]
+            },
+            {
+              "code": 355060,
+              "display": "São Roque",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "são-roquense" }
+              ]
+            },
+            {
+              "code": 355070,
+              "display": "São Sebastião",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sebastianense" }
+              ]
+            },
+            {
+              "code": 355080,
+              "display": "São Sebastião da Grama",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "gramense" }
+              ]
+            },
+            {
+              "code": 355090,
+              "display": "São Simão",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "simonense" }
+              ]
+            },
+            {
+              "code": 355100,
+              "display": "São Vicente",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "vicentino e calunga" }
+              ]
+            },
+            {
+              "code": 355110,
+              "display": "Sarapuí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sarapuiano" }
+              ]
+            },
+            {
+              "code": 355120,
+              "display": "Sarutaiá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sarutaiense" }
+              ]
+            },
+            {
+              "code": 355130,
+              "display": "Sebastianópolis do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sebastionopolense" }
+              ]
+            },
+            {
+              "code": 355140,
+              "display": "Serra Azul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "serra-azulense" }
+              ]
+            },
+            {
+              "code": 355160,
+              "display": "Serra Negra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "serrano" }
+              ]
+            },
+            {
+              "code": 355150,
+              "display": "Serrana",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "serranense" }
+              ]
+            },
+            {
+              "code": 355170,
+              "display": "Sertãozinho",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sertanezino" }
+              ]
+            },
+            {
+              "code": 355180,
+              "display": "Sete Barras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sete-barrense" }
+              ]
+            },
+            {
+              "code": 355190,
+              "display": "Severínia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 355200,
+              "display": "Silveiras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 355210,
+              "display": "Socorro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "socorrense" }
+              ]
+            },
+            {
+              "code": 355220,
+              "display": "Sorocaba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sorocabano" }
+              ]
+            },
+            {
+              "code": 355230,
+              "display": "Sud Mennucci",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 355240,
+              "display": "Sumaré",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "sumareense" }
+              ]
+            },
+            {
+              "code": 355255,
+              "display": "Suzanápolis",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 355250,
+              "display": "Suzano",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "suzanense" }
+              ]
+            },
+            {
+              "code": 355260,
+              "display": "Tabapuã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tabapuanense" }
+              ]
+            },
+            {
+              "code": 355270,
+              "display": "Tabatinga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tabatinguense" }
+              ]
+            },
+            {
+              "code": 355280,
+              "display": "Taboão da Serra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "taboanense" }
+              ]
+            },
+            {
+              "code": 355290,
+              "display": "Taciba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tacibense" }
+              ]
+            },
+            {
+              "code": 355300,
+              "display": "Taguaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "taguaiense ou taguaíno" }
+              ]
+            },
+            {
+              "code": 355310,
+              "display": "Taiaçu",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "taiaçuense" }
+              ]
+            },
+            {
+              "code": 355320,
+              "display": "Taiúva",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "" }
+              ]
+            },
+            {
+              "code": 355330,
+              "display": "Tambaú",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tambausense" }
+              ]
+            },
+            {
+              "code": 355340,
+              "display": "Tanabi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tanabiense" }
+              ]
+            },
+            {
+              "code": 355350,
+              "display": "Tapiraí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tapiraiense" }
+              ]
+            },
+            {
+              "code": 355360,
+              "display": "Tapiratiba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tapiratibense" }
+              ]
+            },
+            {
+              "code": 355365,
+              "display": "Taquaral",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "taquaralense" }
+              ]
+            },
+            {
+              "code": 355370,
+              "display": "Taquaritinga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "taquaritinguense" }
+              ]
+            },
+            {
+              "code": 355380,
+              "display": "Taquarituba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "taquaritubense" }
+              ]
+            },
+            {
+              "code": 355385,
+              "display": "Taquarivaí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "taquarivaense" }
+              ]
+            },
+            {
+              "code": 355390,
+              "display": "Tarabai",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tarabainos" }
+              ]
+            },
+            {
+              "code": 355395,
+              "display": "Tarumã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tarumaense" }
+              ]
+            },
+            {
+              "code": 355400,
+              "display": "Tatuí",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tatuiano" }
+              ]
+            },
+            {
+              "code": 355410,
+              "display": "Taubaté",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                {
+                  "code": "ethnical",
+                  "valueString": "taubateano ou taubateense"
+                }
+              ]
+            },
+            {
+              "code": 355420,
+              "display": "Tejupá",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tejupaense" }
+              ]
+            },
+            {
+              "code": 355430,
+              "display": "Teodoro Sampaio",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "teodorense" }
+              ]
+            },
+            {
+              "code": 355440,
+              "display": "Terra Roxa",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "terra-roxense" }
+              ]
+            },
+            {
+              "code": 355450,
+              "display": "Tietê",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tieteense" }
+              ]
+            },
+            {
+              "code": 355460,
+              "display": "Timburi",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "timburiense" }
+              ]
+            },
+            {
+              "code": 355465,
+              "display": "Torre de Pedra",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "torrepedrense" }
+              ]
+            },
+            {
+              "code": 355470,
+              "display": "Torrinha",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "torrinhense" }
+              ]
+            },
+            {
+              "code": 355475,
+              "display": "Trabiju",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "trabijuense" }
+              ]
+            },
+            {
+              "code": 355480,
+              "display": "Tremembé",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tremembeense" }
+              ]
+            },
+            {
+              "code": 355490,
+              "display": "Três Fronteiras",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "trifronteirano" }
+              ]
+            },
+            {
+              "code": 355495,
+              "display": "Tuiuti",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tuiutiense" }
+              ]
+            },
+            {
+              "code": 355500,
+              "display": "Tupã",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tupãense" }
+              ]
+            },
+            {
+              "code": 355510,
+              "display": "Tupi Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "tupiense" }
+              ]
+            },
+            {
+              "code": 355520,
+              "display": "Turiúba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "turiubense" }
+              ]
+            },
+            {
+              "code": 355530,
+              "display": "Turmalina",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "turmalinense" }
+              ]
+            },
+            {
+              "code": 355535,
+              "display": "Ubarana",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ubaranense" }
+              ]
+            },
+            {
+              "code": 355540,
+              "display": "Ubatuba",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ubatubense" }
+              ]
+            },
+            {
+              "code": 355550,
+              "display": "Ubirajara",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "ubirajarense" }
+              ]
+            },
+            {
+              "code": 355560,
+              "display": "Uchoa",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "uchoense" }
+              ]
+            },
+            {
+              "code": 355570,
+              "display": "União Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "união-paulistense" }
+              ]
+            },
+            {
+              "code": 355580,
+              "display": "Urânia",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "uraniano" }
+              ]
+            },
+            {
+              "code": 355590,
+              "display": "Uru",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "uruense" }
+              ]
+            },
+            {
+              "code": 355600,
+              "display": "Urupês",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "urupeense" }
+              ]
+            },
+            {
+              "code": 355610,
+              "display": "Valentim Gentil",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "valentim-gentilense" }
+              ]
+            },
+            {
+              "code": 355620,
+              "display": "Valinhos",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "valinhense" }
+              ]
+            },
+            {
+              "code": 355630,
+              "display": "Valparaíso",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "valparaisense" }
+              ]
+            },
+            {
+              "code": 355635,
+              "display": "Vargem",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "vargense" }
+              ]
+            },
+            {
+              "code": 355640,
+              "display": "Vargem Grande do Sul",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "vargem-grandense" }
+              ]
+            },
+            {
+              "code": 355645,
+              "display": "Vargem Grande Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "vargem-grandense" }
+              ]
+            },
+            {
+              "code": 355650,
+              "display": "Várzea Paulista",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "varzino" }
+              ]
+            },
+            {
+              "code": 355660,
+              "display": "Vera Cruz",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "vera-cruzense" }
+              ]
+            },
+            {
+              "code": 355670,
+              "display": "Vinhedo",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "vinhedense" }
+              ]
+            },
+            {
+              "code": 355680,
+              "display": "Viradouro",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "viradourense" }
+              ]
+            },
+            {
+              "code": 355690,
+              "display": "Vista Alegre do Alto",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "vistalegrense" }
+              ]
+            },
+            {
+              "code": 355695,
+              "display": "Vitória Brasil",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "vitoriabrasiliense" }
+              ]
+            },
+            {
+              "code": 355700,
+              "display": "Votorantim",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "votorantinense" }
+              ]
+            },
+            {
+              "code": 355710,
+              "display": "Votuporanga",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "votuporanguense" }
+              ]
+            },
+            {
+              "code": 355715,
+              "display": "Zacarias",
+              "property": [
+                { "code": "type", "valueCode": "city" },
+                { "code": "ethnical", "valueString": "zacariense" }
+              ]
+            }
           ]
         }
       ]
