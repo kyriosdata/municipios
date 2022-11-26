@@ -13,9 +13,16 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 
 /**
- * Classe empregada para gerar arquivos empregados para busca
- * de municípios. Trata-se de classe cujo código será executado
- * em tempo de desenvolvimento apenas.
+ * Aplicação que gera arquivos empregados para busca
+ * de informações sobre municípios.
+ *
+ * <p>Ao executar este programa será depositado no diretório
+ * corrente os arquivos {@code codigos.bin}, {@code nomes.bin}
+ * e {@code busca.bin}.
+ * </p>
+ *
+ * <p>O código desta classe será executado apenas em tempo
+ * de desenvolvimento.</p>
  */
 public final class Preparacao {
 

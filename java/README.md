@@ -24,3 +24,8 @@ _Developer Settings_ e _Personal Access Tokens_.
 Comando para efetuar _deploy_ (disponibilizar _package_ no Github): 
 
 - `mvn --batch-mode deploy`
+
+## Orientações gerais
+
+- Aplicação (Preparacao) gera a base de dados empregada para as consultas.
+Arquivos gerados (.bin) devem ser depositados no diretório **resources**.
