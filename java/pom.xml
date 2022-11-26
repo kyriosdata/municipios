@@ -157,7 +157,7 @@
         </pluginManagement>
 
         <!-- Define o nome do arquivo a ser gerado (.jar é acrescentada) -->
-        <finalName>exemplo</finalName>
+        <finalName>${project.artifactId}</finalName>
 
         <plugins>
 

@@ -4,8 +4,8 @@ Biblioteca para acesso a
 municípios (nomes e código IBGE) e estados (nomes e capitais).
 
 Esta biblioteca também estabelece um código único sequencial, de 0 a
-5570, para cada município. Assim como também estabelece um código 
-único de 0 a 26 a cada um dos estados.
+5569 para os municípios. Assim como também estabelece um código 
+único de 0 a 26 para os estados.
 
 ## Gradle 
 
@@ -25,7 +25,10 @@ Comando para efetuar _deploy_ (disponibilizar _package_ no Github):
 
 - `mvn --batch-mode deploy`
 
-## Orientações gerais
+## Orientações gerais para gerar a biblioteca
 
-- Aplicação (Preparacao) gera a base de dados empregada para as consultas.
-Arquivos gerados (.bin) devem ser depositados no diretório **resources**.
+- A aplicação (Preparacao) gera a base de dados empregada para as consultas.
+Arquivos gerados (.bin) devem ser depositados no diretório **resources**. Execute
+esta aplicação para atualizar os arquivos.
+- Copie os arquivos gerados para o diretório **src/main/resources**.
+- Execute o comando `mvn package` para gerar a biblioteca (**municipios)
