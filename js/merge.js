@@ -1,17 +1,23 @@
 const fs = require("fs");
 
+function removeDigitoVerificador(codigo) {
+  return Math.floor(codigo / 10);
+}
+
 // Carregar
-const conteudo = fs.readFileSync("../ms.csv", "utf-8");
+const conteudo = fs.readFileSync("../base/municipios.csv", "utf-8");
 const linhas = conteudo.split("\n");
 
-const conceitos = [];
+const baianos = [];
 
 linhas.forEach((l) => {
-  let campos = l.trim().split(" - ");
-  conceitos.push({
-    display: campos[0],
-    valueString: campos[1],
-  });
+  let campos = l.trim().split(";");
+  if (campos[0].startsWith("23"))
+    baianos.push({
+      code: removeDigitoVerificador(campos[0]),
+      display: campos[1],
+      property: [{ code: "type", valueCode: "city" }],
+    });
 });
 
-console.log(JSON.stringify(conceitos));
+console.log(JSON.stringify(baianos));

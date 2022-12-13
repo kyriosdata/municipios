@@ -1154,6 +1154,728 @@
             { "code": "type", "valueCode": "state" },
             { "code": "initials", "valueCode": "PA" },
             { "code": "ethnical", "valueString": "paraense" }
+          ],
+          "concept": [
+            {
+              "code": 150010,
+              "display": "Abaetetuba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150013,
+              "display": "Abel Figueiredo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150020,
+              "display": "Acará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150030,
+              "display": "Afuá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150034,
+              "display": "Água Azul do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150040,
+              "display": "Alenquer",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150050,
+              "display": "Almeirim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150060,
+              "display": "Altamira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150070,
+              "display": "Anajás",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150080,
+              "display": "Ananindeua",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150085,
+              "display": "Anapu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150090,
+              "display": "Augusto Corrêa",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150095,
+              "display": "Aurora do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150100,
+              "display": "Aveiro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150110,
+              "display": "Bagre",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150120,
+              "display": "Baião",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150125,
+              "display": "Bannach",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150130,
+              "display": "Barcarena",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150140,
+              "display": "Belém",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150145,
+              "display": "Belterra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150150,
+              "display": "Benevides",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150157,
+              "display": "Bom Jesus do Tocantins",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150160,
+              "display": "Bonito",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150170,
+              "display": "Bragança",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150172,
+              "display": "Brasil Novo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150175,
+              "display": "Brejo Grande do Araguaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150178,
+              "display": "Breu Branco",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150180,
+              "display": "Breves",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150190,
+              "display": "Bujaru",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150200,
+              "display": "Cachoeira do Arari",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150195,
+              "display": "Cachoeira do Piriá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150210,
+              "display": "Cametá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150215,
+              "display": "Canaã dos Carajás",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150220,
+              "display": "Capanema",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150230,
+              "display": "Capitão Poço",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150240,
+              "display": "Castanhal",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150250,
+              "display": "Chaves",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150260,
+              "display": "Colares",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150270,
+              "display": "Conceição do Araguaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150275,
+              "display": "Concórdia do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150276,
+              "display": "Cumaru do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150277,
+              "display": "Curionópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150280,
+              "display": "Curralinho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150285,
+              "display": "Curuá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150290,
+              "display": "Curuçá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150293,
+              "display": "Dom Eliseu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150295,
+              "display": "Eldorado do Carajás",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150300,
+              "display": "Faro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150304,
+              "display": "Floresta do Araguaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150307,
+              "display": "Garrafão do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150309,
+              "display": "Goianésia do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150310,
+              "display": "Gurupá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150320,
+              "display": "Igarapé-Açu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150330,
+              "display": "Igarapé-Miri",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150340,
+              "display": "Inhangapi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150345,
+              "display": "Ipixuna do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150350,
+              "display": "Irituia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150360,
+              "display": "Itaituba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150370,
+              "display": "Itupiranga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150375,
+              "display": "Jacareacanga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150380,
+              "display": "Jacundá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150390,
+              "display": "Juruti",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150400,
+              "display": "Limoeiro do Ajuru",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150405,
+              "display": "Mãe do Rio",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150410,
+              "display": "Magalhães Barata",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150420,
+              "display": "Marabá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150430,
+              "display": "Maracanã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150440,
+              "display": "Marapanim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150442,
+              "display": "Marituba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150445,
+              "display": "Medicilândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150450,
+              "display": "Melgaço",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150460,
+              "display": "Mocajuba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150470,
+              "display": "Moju",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150475,
+              "display": "Mojuí dos Campos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150480,
+              "display": "Monte Alegre",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150490,
+              "display": "Muaná",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150495,
+              "display": "Nova Esperança do Piriá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150497,
+              "display": "Nova Ipixuna",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150500,
+              "display": "Nova Timboteua",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150503,
+              "display": "Novo Progresso",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150506,
+              "display": "Novo Repartimento",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150510,
+              "display": "Óbidos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150520,
+              "display": "Oeiras do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150530,
+              "display": "Oriximiná",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150540,
+              "display": "Ourém",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150543,
+              "display": "Ourilândia do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150548,
+              "display": "Pacajá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150549,
+              "display": "Palestina do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150550,
+              "display": "Paragominas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150553,
+              "display": "Parauapebas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150555,
+              "display": "Pau D'Arco",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150560,
+              "display": "Peixe-Boi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150563,
+              "display": "Piçarra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150565,
+              "display": "Placas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150570,
+              "display": "Ponta de Pedras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150580,
+              "display": "Portel",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150590,
+              "display": "Porto de Moz",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150600,
+              "display": "Prainha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150610,
+              "display": "Primavera",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150611,
+              "display": "Quatipuru",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150613,
+              "display": "Redenção",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150616,
+              "display": "Rio Maria",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150618,
+              "display": "Rondon do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150619,
+              "display": "Rurópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150620,
+              "display": "Salinópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150630,
+              "display": "Salvaterra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150635,
+              "display": "Santa Bárbara do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150640,
+              "display": "Santa Cruz do Arari",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150650,
+              "display": "Santa Izabel do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150655,
+              "display": "Santa Luzia do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150658,
+              "display": "Santa Maria das Barreiras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150660,
+              "display": "Santa Maria do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150670,
+              "display": "Santana do Araguaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150680,
+              "display": "Santarém",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150690,
+              "display": "Santarém Novo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150700,
+              "display": "Santo Antônio do Tauá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150710,
+              "display": "São Caetano de Odivelas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150715,
+              "display": "São Domingos do Araguaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150720,
+              "display": "São Domingos do Capim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150730,
+              "display": "São Félix do Xingu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150740,
+              "display": "São Francisco do Pará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150745,
+              "display": "São Geraldo do Araguaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150746,
+              "display": "São João da Ponta",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150747,
+              "display": "São João de Pirabas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150750,
+              "display": "São João do Araguaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150760,
+              "display": "São Miguel do Guamá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150770,
+              "display": "São Sebastião da Boa Vista",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150775,
+              "display": "Sapucaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150780,
+              "display": "Senador José Porfírio",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150790,
+              "display": "Soure",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150795,
+              "display": "Tailândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150796,
+              "display": "Terra Alta",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150797,
+              "display": "Terra Santa",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150800,
+              "display": "Tomé-Açu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150803,
+              "display": "Tracuateua",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150805,
+              "display": "Trairão",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150808,
+              "display": "Tucumã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150810,
+              "display": "Tucuruí",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150812,
+              "display": "Ulianópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150815,
+              "display": "Uruará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150820,
+              "display": "Vigia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150830,
+              "display": "Viseu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150835,
+              "display": "Vitória do Xingu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 150840,
+              "display": "Xinguara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            }
           ]
         },
         {
@@ -4569,6 +5291,928 @@
             { "code": "type", "valueCode": "state" },
             { "code": "initials", "valueCode": "CE" },
             { "code": "ethnical", "valueString": "cearense" }
+          ],
+          "concept": [
+            {
+              "code": 230010,
+              "display": "Abaiara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230015,
+              "display": "Acarape",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230020,
+              "display": "Acaraú",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230030,
+              "display": "Acopiara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230040,
+              "display": "Aiuaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230050,
+              "display": "Alcântaras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230060,
+              "display": "Altaneira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230070,
+              "display": "Alto Santo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230075,
+              "display": "Amontada",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230080,
+              "display": "Antonina do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230090,
+              "display": "Apuiarés",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230100,
+              "display": "Aquiraz",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230110,
+              "display": "Aracati",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230120,
+              "display": "Aracoiaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230125,
+              "display": "Ararendá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230130,
+              "display": "Araripe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230140,
+              "display": "Aratuba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230150,
+              "display": "Arneiroz",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230160,
+              "display": "Assaré",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230170,
+              "display": "Aurora",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230180,
+              "display": "Baixio",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230185,
+              "display": "Banabuiú",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230190,
+              "display": "Barbalha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230195,
+              "display": "Barreira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230200,
+              "display": "Barro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230205,
+              "display": "Barroquinha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230210,
+              "display": "Baturité",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230220,
+              "display": "Beberibe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230230,
+              "display": "Bela Cruz",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230240,
+              "display": "Boa Viagem",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230250,
+              "display": "Brejo Santo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230260,
+              "display": "Camocim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230270,
+              "display": "Campos Sales",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230280,
+              "display": "Canindé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230290,
+              "display": "Capistrano",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230300,
+              "display": "Caridade",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230310,
+              "display": "Cariré",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230320,
+              "display": "Caririaçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230330,
+              "display": "Cariús",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230340,
+              "display": "Carnaubal",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230350,
+              "display": "Cascavel",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230360,
+              "display": "Catarina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230365,
+              "display": "Catunda",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230370,
+              "display": "Caucaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230380,
+              "display": "Cedro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230390,
+              "display": "Chaval",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230393,
+              "display": "Choró",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230395,
+              "display": "Chorozinho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230400,
+              "display": "Coreaú",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230410,
+              "display": "Crateús",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230420,
+              "display": "Crato",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230423,
+              "display": "Croatá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230425,
+              "display": "Cruz",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230426,
+              "display": "Deputado Irapuan Pinheiro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230427,
+              "display": "Ererê",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230428,
+              "display": "Eusébio",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230430,
+              "display": "Farias Brito",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230435,
+              "display": "Forquilha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230440,
+              "display": "Fortaleza",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230445,
+              "display": "Fortim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230450,
+              "display": "Frecheirinha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230460,
+              "display": "General Sampaio",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230465,
+              "display": "Graça",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230470,
+              "display": "Granja",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230480,
+              "display": "Granjeiro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230490,
+              "display": "Groaíras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230495,
+              "display": "Guaiúba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230500,
+              "display": "Guaraciaba do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230510,
+              "display": "Guaramiranga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230520,
+              "display": "Hidrolândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230523,
+              "display": "Horizonte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230526,
+              "display": "Ibaretama",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230530,
+              "display": "Ibiapina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230533,
+              "display": "Ibicuitinga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230535,
+              "display": "Icapuí",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230540,
+              "display": "Icó",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230550,
+              "display": "Iguatu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230560,
+              "display": "Independência",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230565,
+              "display": "Ipaporanga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230570,
+              "display": "Ipaumirim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230580,
+              "display": "Ipu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230590,
+              "display": "Ipueiras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230600,
+              "display": "Iracema",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230610,
+              "display": "Irauçuba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230620,
+              "display": "Itaiçaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230625,
+              "display": "Itaitinga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230630,
+              "display": "Itapajé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230640,
+              "display": "Itapipoca",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230650,
+              "display": "Itapiúna",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230655,
+              "display": "Itarema",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230660,
+              "display": "Itatira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230670,
+              "display": "Jaguaretama",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230680,
+              "display": "Jaguaribara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230690,
+              "display": "Jaguaribe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230700,
+              "display": "Jaguaruana",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230710,
+              "display": "Jardim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230720,
+              "display": "Jati",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230725,
+              "display": "Jijoca de Jericoacoara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230730,
+              "display": "Juazeiro do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230740,
+              "display": "Jucás",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230750,
+              "display": "Lavras da Mangabeira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230760,
+              "display": "Limoeiro do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230763,
+              "display": "Madalena",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230765,
+              "display": "Maracanaú",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230770,
+              "display": "Maranguape",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230780,
+              "display": "Marco",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230790,
+              "display": "Martinópole",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230800,
+              "display": "Massapê",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230810,
+              "display": "Mauriti",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230820,
+              "display": "Meruoca",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230830,
+              "display": "Milagres",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230835,
+              "display": "Milhã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230837,
+              "display": "Miraíma",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230840,
+              "display": "Missão Velha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230850,
+              "display": "Mombaça",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230860,
+              "display": "Monsenhor Tabosa",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230870,
+              "display": "Morada Nova",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230880,
+              "display": "Moraújo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230890,
+              "display": "Morrinhos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230900,
+              "display": "Mucambo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230910,
+              "display": "Mulungu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230920,
+              "display": "Nova Olinda",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230930,
+              "display": "Nova Russas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230940,
+              "display": "Novo Oriente",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230945,
+              "display": "Ocara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230950,
+              "display": "Orós",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230960,
+              "display": "Pacajus",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230970,
+              "display": "Pacatuba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230980,
+              "display": "Pacoti",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 230990,
+              "display": "Pacujá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231000,
+              "display": "Palhano",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231010,
+              "display": "Palmácia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231020,
+              "display": "Paracuru",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231025,
+              "display": "Paraipaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231030,
+              "display": "Parambu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231040,
+              "display": "Paramoti",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231050,
+              "display": "Pedra Branca",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231060,
+              "display": "Penaforte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231070,
+              "display": "Pentecoste",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231080,
+              "display": "Pereiro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231085,
+              "display": "Pindoretama",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231090,
+              "display": "Piquet Carneiro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231095,
+              "display": "Pires Ferreira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231100,
+              "display": "Poranga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231110,
+              "display": "Porteiras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231120,
+              "display": "Potengi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231123,
+              "display": "Potiretama",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231126,
+              "display": "Quiterianópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231130,
+              "display": "Quixadá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231135,
+              "display": "Quixelô",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231140,
+              "display": "Quixeramobim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231150,
+              "display": "Quixeré",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231160,
+              "display": "Redenção",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231170,
+              "display": "Reriutaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231180,
+              "display": "Russas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231190,
+              "display": "Saboeiro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231195,
+              "display": "Salitre",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231220,
+              "display": "Santa Quitéria",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231200,
+              "display": "Santana do Acaraú",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231210,
+              "display": "Santana do Cariri",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231230,
+              "display": "São Benedito",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231240,
+              "display": "São Gonçalo do Amarante",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231250,
+              "display": "São João do Jaguaribe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231260,
+              "display": "São Luís do Curu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231270,
+              "display": "Senador Pompeu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231280,
+              "display": "Senador Sá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231290,
+              "display": "Sobral",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231300,
+              "display": "Solonópole",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231310,
+              "display": "Tabuleiro do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231320,
+              "display": "Tamboril",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231325,
+              "display": "Tarrafas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231330,
+              "display": "Tauá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231335,
+              "display": "Tejuçuoca",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231340,
+              "display": "Tianguá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231350,
+              "display": "Trairi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231355,
+              "display": "Tururu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231360,
+              "display": "Ubajara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231370,
+              "display": "Umari",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231375,
+              "display": "Umirim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231380,
+              "display": "Uruburetama",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231390,
+              "display": "Uruoca",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231395,
+              "display": "Varjota",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231400,
+              "display": "Várzea Alegre",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 231410,
+              "display": "Viçosa do Ceará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            }
           ]
         },
         {
@@ -8951,6 +10595,2093 @@
             { "code": "type", "valueCode": "state" },
             { "code": "initials", "valueCode": "BA" },
             { "code": "ethnical", "valueString": "baiano" }
+          ],
+          "concept": [
+            {
+              "code": 290010,
+              "display": "Abaíra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290020,
+              "display": "Abaré",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290030,
+              "display": "Acajutiba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290035,
+              "display": "Adustina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290040,
+              "display": "Água Fria",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290060,
+              "display": "Aiquara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290070,
+              "display": "Alagoinhas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290080,
+              "display": "Alcobaça",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290090,
+              "display": "Almadina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290100,
+              "display": "Amargosa",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290110,
+              "display": "Amélia Rodrigues",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290115,
+              "display": "América Dourada",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290120,
+              "display": "Anagé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290130,
+              "display": "Andaraí",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290135,
+              "display": "Andorinha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290140,
+              "display": "Angical",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290150,
+              "display": "Anguera",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290160,
+              "display": "Antas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290170,
+              "display": "Antônio Cardoso",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290180,
+              "display": "Antônio Gonçalves",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290190,
+              "display": "Aporá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290195,
+              "display": "Apuarema",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290205,
+              "display": "Araçás",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290200,
+              "display": "Aracatu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290210,
+              "display": "Araci",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290220,
+              "display": "Aramari",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290225,
+              "display": "Arataca",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290230,
+              "display": "Aratuípe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290240,
+              "display": "Aurelino Leal",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290250,
+              "display": "Baianópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290260,
+              "display": "Baixa Grande",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290265,
+              "display": "Banzaê",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290270,
+              "display": "Barra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290280,
+              "display": "Barra da Estiva",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290290,
+              "display": "Barra do Choça",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290300,
+              "display": "Barra do Mendes",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290310,
+              "display": "Barra do Rocha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290320,
+              "display": "Barreiras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290323,
+              "display": "Barro Alto",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290330,
+              "display": "Barro Preto",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290327,
+              "display": "Barrocas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290340,
+              "display": "Belmonte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290350,
+              "display": "Belo Campo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290360,
+              "display": "Biritinga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290370,
+              "display": "Boa Nova",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290380,
+              "display": "Boa Vista do Tupim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290390,
+              "display": "Bom Jesus da Lapa",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290395,
+              "display": "Bom Jesus da Serra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290400,
+              "display": "Boninal",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290405,
+              "display": "Bonito",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290410,
+              "display": "Boquira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290420,
+              "display": "Botuporã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290430,
+              "display": "Brejões",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290440,
+              "display": "Brejolândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290450,
+              "display": "Brotas de Macaúbas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290460,
+              "display": "Brumado",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290470,
+              "display": "Buerarema",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290475,
+              "display": "Buritirama",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290480,
+              "display": "Caatiba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290485,
+              "display": "Cabaceiras do Paraguaçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290490,
+              "display": "Cachoeira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290500,
+              "display": "Caculé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290510,
+              "display": "Caém",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290515,
+              "display": "Caetanos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290520,
+              "display": "Caetité",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290530,
+              "display": "Cafarnaum",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290540,
+              "display": "Cairu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290550,
+              "display": "Caldeirão Grande",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290560,
+              "display": "Camacan",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290570,
+              "display": "Camaçari",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290580,
+              "display": "Camamu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290590,
+              "display": "Campo Alegre de Lourdes",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290600,
+              "display": "Campo Formoso",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290610,
+              "display": "Canápolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290620,
+              "display": "Canarana",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290630,
+              "display": "Canavieiras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290640,
+              "display": "Candeal",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290650,
+              "display": "Candeias",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290660,
+              "display": "Candiba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290670,
+              "display": "Cândido Sales",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290680,
+              "display": "Cansanção",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290682,
+              "display": "Canudos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290685,
+              "display": "Capela do Alto Alegre",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290687,
+              "display": "Capim Grosso",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290689,
+              "display": "Caraíbas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290690,
+              "display": "Caravelas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290700,
+              "display": "Cardeal da Silva",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290710,
+              "display": "Carinhanha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290720,
+              "display": "Casa Nova",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290730,
+              "display": "Castro Alves",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290740,
+              "display": "Catolândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290750,
+              "display": "Catu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290755,
+              "display": "Caturama",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290760,
+              "display": "Central",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290770,
+              "display": "Chorrochó",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290780,
+              "display": "Cícero Dantas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290790,
+              "display": "Cipó",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290800,
+              "display": "Coaraci",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290810,
+              "display": "Cocos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290820,
+              "display": "Conceição da Feira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290830,
+              "display": "Conceição do Almeida",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290840,
+              "display": "Conceição do Coité",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290850,
+              "display": "Conceição do Jacuípe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290860,
+              "display": "Conde",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290870,
+              "display": "Condeúba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290880,
+              "display": "Contendas do Sincorá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290890,
+              "display": "Coração de Maria",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290900,
+              "display": "Cordeiros",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290910,
+              "display": "Coribe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290920,
+              "display": "Coronel João Sá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290930,
+              "display": "Correntina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290940,
+              "display": "Cotegipe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290950,
+              "display": "Cravolândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290960,
+              "display": "Crisópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290970,
+              "display": "Cristópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290980,
+              "display": "Cruz das Almas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290990,
+              "display": "Curaçá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291000,
+              "display": "Dário Meira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291005,
+              "display": "Dias d'Ávila",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291010,
+              "display": "Dom Basílio",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291020,
+              "display": "Dom Macedo Costa",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291030,
+              "display": "Elísio Medrado",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291040,
+              "display": "Encruzilhada",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291050,
+              "display": "Entre Rios",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 290050,
+              "display": "Érico Cardoso",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291060,
+              "display": "Esplanada",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291070,
+              "display": "Euclides da Cunha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291072,
+              "display": "Eunápolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291075,
+              "display": "Fátima",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291077,
+              "display": "Feira da Mata",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291080,
+              "display": "Feira de Santana",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291085,
+              "display": "Filadélfia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291090,
+              "display": "Firmino Alves",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291100,
+              "display": "Floresta Azul",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291110,
+              "display": "Formosa do Rio Preto",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291120,
+              "display": "Gandu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291125,
+              "display": "Gavião",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291130,
+              "display": "Gentio do Ouro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291140,
+              "display": "Glória",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291150,
+              "display": "Gongogi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291160,
+              "display": "Governador Mangabeira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291165,
+              "display": "Guajeru",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291170,
+              "display": "Guanambi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291180,
+              "display": "Guaratinga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291185,
+              "display": "Heliópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291190,
+              "display": "Iaçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291200,
+              "display": "Ibiassucê",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291210,
+              "display": "Ibicaraí",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291220,
+              "display": "Ibicoara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291230,
+              "display": "Ibicuí",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291240,
+              "display": "Ibipeba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291250,
+              "display": "Ibipitanga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291260,
+              "display": "Ibiquera",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291270,
+              "display": "Ibirapitanga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291280,
+              "display": "Ibirapuã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291290,
+              "display": "Ibirataia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291300,
+              "display": "Ibitiara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291310,
+              "display": "Ibititá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291320,
+              "display": "Ibotirama",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291330,
+              "display": "Ichu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291340,
+              "display": "Igaporã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291345,
+              "display": "Igrapiúna",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291350,
+              "display": "Iguaí",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291360,
+              "display": "Ilhéus",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291370,
+              "display": "Inhambupe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291380,
+              "display": "Ipecaetá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291390,
+              "display": "Ipiaú",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291400,
+              "display": "Ipirá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291410,
+              "display": "Ipupiara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291420,
+              "display": "Irajuba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291430,
+              "display": "Iramaia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291440,
+              "display": "Iraquara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291450,
+              "display": "Irará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291460,
+              "display": "Irecê",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291465,
+              "display": "Itabela",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291470,
+              "display": "Itaberaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291480,
+              "display": "Itabuna",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291490,
+              "display": "Itacaré",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291500,
+              "display": "Itaeté",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291510,
+              "display": "Itagi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291520,
+              "display": "Itagibá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291530,
+              "display": "Itagimirim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291535,
+              "display": "Itaguaçu da Bahia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291540,
+              "display": "Itaju do Colônia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291550,
+              "display": "Itajuípe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291560,
+              "display": "Itamaraju",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291570,
+              "display": "Itamari",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291580,
+              "display": "Itambé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291590,
+              "display": "Itanagra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291600,
+              "display": "Itanhém",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291610,
+              "display": "Itaparica",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291620,
+              "display": "Itapé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291630,
+              "display": "Itapebi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291640,
+              "display": "Itapetinga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291650,
+              "display": "Itapicuru",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291660,
+              "display": "Itapitanga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291670,
+              "display": "Itaquara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291680,
+              "display": "Itarantim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291685,
+              "display": "Itatim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291690,
+              "display": "Itiruçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291700,
+              "display": "Itiúba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291710,
+              "display": "Itororó",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291720,
+              "display": "Ituaçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291730,
+              "display": "Ituberá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291733,
+              "display": "Iuiu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291735,
+              "display": "Jaborandi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291740,
+              "display": "Jacaraci",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291750,
+              "display": "Jacobina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291760,
+              "display": "Jaguaquara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291770,
+              "display": "Jaguarari",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291780,
+              "display": "Jaguaripe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291790,
+              "display": "Jandaíra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291800,
+              "display": "Jequié",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291810,
+              "display": "Jeremoabo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291820,
+              "display": "Jiquiriçá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291830,
+              "display": "Jitaúna",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291835,
+              "display": "João Dourado",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291840,
+              "display": "Juazeiro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291845,
+              "display": "Jucuruçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291850,
+              "display": "Jussara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291855,
+              "display": "Jussari",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291860,
+              "display": "Jussiape",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291870,
+              "display": "Lafaiete Coutinho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291875,
+              "display": "Lagoa Real",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291880,
+              "display": "Laje",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291890,
+              "display": "Lajedão",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291900,
+              "display": "Lajedinho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291905,
+              "display": "Lajedo do Tabocal",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291910,
+              "display": "Lamarão",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291915,
+              "display": "Lapão",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291920,
+              "display": "Lauro de Freitas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291930,
+              "display": "Lençóis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291940,
+              "display": "Licínio de Almeida",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291950,
+              "display": "Livramento de Nossa Senhora",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291955,
+              "display": "Luís Eduardo Magalhães",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291960,
+              "display": "Macajuba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291970,
+              "display": "Macarani",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291980,
+              "display": "Macaúbas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291990,
+              "display": "Macururé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291992,
+              "display": "Madre de Deus",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 291995,
+              "display": "Maetinga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292000,
+              "display": "Maiquinique",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292010,
+              "display": "Mairi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292020,
+              "display": "Malhada",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292030,
+              "display": "Malhada de Pedras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292040,
+              "display": "Manoel Vitorino",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292045,
+              "display": "Mansidão",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292050,
+              "display": "Maracás",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292060,
+              "display": "Maragogipe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292070,
+              "display": "Maraú",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292080,
+              "display": "Marcionílio Souza",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292090,
+              "display": "Mascote",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292100,
+              "display": "Mata de São João",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292105,
+              "display": "Matina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292110,
+              "display": "Medeiros Neto",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292120,
+              "display": "Miguel Calmon",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292130,
+              "display": "Milagres",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292140,
+              "display": "Mirangaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292145,
+              "display": "Mirante",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292150,
+              "display": "Monte Santo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292160,
+              "display": "Morpará",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292170,
+              "display": "Morro do Chapéu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292180,
+              "display": "Mortugaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292190,
+              "display": "Mucugê",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292200,
+              "display": "Mucuri",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292205,
+              "display": "Mulungu do Morro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292210,
+              "display": "Mundo Novo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292220,
+              "display": "Muniz Ferreira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292225,
+              "display": "Muquém do São Francisco",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292230,
+              "display": "Muritiba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292240,
+              "display": "Mutuípe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292250,
+              "display": "Nazaré",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292260,
+              "display": "Nilo Peçanha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292265,
+              "display": "Nordestina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292270,
+              "display": "Nova Canaã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292273,
+              "display": "Nova Fátima",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292275,
+              "display": "Nova Ibiá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292280,
+              "display": "Nova Itarana",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292285,
+              "display": "Nova Redenção",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292290,
+              "display": "Nova Soure",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292300,
+              "display": "Nova Viçosa",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292303,
+              "display": "Novo Horizonte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292305,
+              "display": "Novo Triunfo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292310,
+              "display": "Olindina",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292320,
+              "display": "Oliveira dos Brejinhos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292330,
+              "display": "Ouriçangas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292335,
+              "display": "Ourolândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292340,
+              "display": "Palmas de Monte Alto",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292350,
+              "display": "Palmeiras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292360,
+              "display": "Paramirim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292370,
+              "display": "Paratinga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292380,
+              "display": "Paripiranga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292390,
+              "display": "Pau Brasil",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292400,
+              "display": "Paulo Afonso",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292405,
+              "display": "Pé de Serra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292410,
+              "display": "Pedrão",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292420,
+              "display": "Pedro Alexandre",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292430,
+              "display": "Piatã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292440,
+              "display": "Pilão Arcado",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292450,
+              "display": "Pindaí",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292460,
+              "display": "Pindobaçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292465,
+              "display": "Pintadas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292467,
+              "display": "Piraí do Norte",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292470,
+              "display": "Piripá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292480,
+              "display": "Piritiba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292490,
+              "display": "Planaltino",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292500,
+              "display": "Planalto",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292510,
+              "display": "Poções",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292520,
+              "display": "Pojuca",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292525,
+              "display": "Ponto Novo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292530,
+              "display": "Porto Seguro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292540,
+              "display": "Potiraguá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292550,
+              "display": "Prado",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292560,
+              "display": "Presidente Dutra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292570,
+              "display": "Presidente Jânio Quadros",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292575,
+              "display": "Presidente Tancredo Neves",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292580,
+              "display": "Queimadas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292590,
+              "display": "Quijingue",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292593,
+              "display": "Quixabeira",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292595,
+              "display": "Rafael Jambeiro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292600,
+              "display": "Remanso",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292610,
+              "display": "Retirolândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292620,
+              "display": "Riachão das Neves",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292630,
+              "display": "Riachão do Jacuípe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292640,
+              "display": "Riacho de Santana",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292650,
+              "display": "Ribeira do Amparo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292660,
+              "display": "Ribeira do Pombal",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292665,
+              "display": "Ribeirão do Largo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292670,
+              "display": "Rio de Contas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292680,
+              "display": "Rio do Antônio",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292690,
+              "display": "Rio do Pires",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292700,
+              "display": "Rio Real",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292710,
+              "display": "Rodelas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292720,
+              "display": "Ruy Barbosa",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292730,
+              "display": "Salinas da Margarida",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292740,
+              "display": "Salvador",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292750,
+              "display": "Santa Bárbara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292760,
+              "display": "Santa Brígida",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292770,
+              "display": "Santa Cruz Cabrália",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292780,
+              "display": "Santa Cruz da Vitória",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292790,
+              "display": "Santa Inês",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292805,
+              "display": "Santa Luzia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292810,
+              "display": "Santa Maria da Vitória",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292840,
+              "display": "Santa Rita de Cássia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292850,
+              "display": "Santa Terezinha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292800,
+              "display": "Santaluz",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292820,
+              "display": "Santana",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292830,
+              "display": "Santanópolis",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292860,
+              "display": "Santo Amaro",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292870,
+              "display": "Santo Antônio de Jesus",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292880,
+              "display": "Santo Estêvão",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292890,
+              "display": "São Desidério",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292895,
+              "display": "São Domingos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292910,
+              "display": "São Felipe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292900,
+              "display": "São Félix",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292905,
+              "display": "São Félix do Coribe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292920,
+              "display": "São Francisco do Conde",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292925,
+              "display": "São Gabriel",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292930,
+              "display": "São Gonçalo dos Campos",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292935,
+              "display": "São José da Vitória",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292937,
+              "display": "São José do Jacuípe",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292940,
+              "display": "São Miguel das Matas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292950,
+              "display": "São Sebastião do Passé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292960,
+              "display": "Sapeaçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292970,
+              "display": "Sátiro Dias",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292975,
+              "display": "Saubara",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292980,
+              "display": "Saúde",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 292990,
+              "display": "Seabra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293000,
+              "display": "Sebastião Laranjeiras",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293010,
+              "display": "Senhor do Bonfim",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293020,
+              "display": "Sento Sé",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293015,
+              "display": "Serra do Ramalho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293030,
+              "display": "Serra Dourada",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293040,
+              "display": "Serra Preta",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293050,
+              "display": "Serrinha",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293060,
+              "display": "Serrolândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293070,
+              "display": "Simões Filho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293075,
+              "display": "Sítio do Mato",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293076,
+              "display": "Sítio do Quinto",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293077,
+              "display": "Sobradinho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293080,
+              "display": "Souto Soares",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293090,
+              "display": "Tabocas do Brejo Velho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293100,
+              "display": "Tanhaçu",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293105,
+              "display": "Tanque Novo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293110,
+              "display": "Tanquinho",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293120,
+              "display": "Taperoá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293130,
+              "display": "Tapiramutá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293135,
+              "display": "Teixeira de Freitas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293140,
+              "display": "Teodoro Sampaio",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293150,
+              "display": "Teofilândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293160,
+              "display": "Teolândia",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293170,
+              "display": "Terra Nova",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293180,
+              "display": "Tremedal",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293190,
+              "display": "Tucano",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293200,
+              "display": "Uauá",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293210,
+              "display": "Ubaíra",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293220,
+              "display": "Ubaitaba",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293230,
+              "display": "Ubatã",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293240,
+              "display": "Uibaí",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293245,
+              "display": "Umburanas",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293250,
+              "display": "Una",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293260,
+              "display": "Urandi",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293270,
+              "display": "Uruçuca",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293280,
+              "display": "Utinga",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293290,
+              "display": "Valença",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293300,
+              "display": "Valente",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293305,
+              "display": "Várzea da Roça",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293310,
+              "display": "Várzea do Poço",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293315,
+              "display": "Várzea Nova",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293317,
+              "display": "Varzedo",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293320,
+              "display": "Vera Cruz",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293325,
+              "display": "Vereda",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293330,
+              "display": "Vitória da Conquista",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293340,
+              "display": "Wagner",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293345,
+              "display": "Wanderley",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293350,
+              "display": "Wenceslau Guimarães",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            },
+            {
+              "code": 293360,
+              "display": "Xique-Xique",
+              "property": [{ "code": "type", "valueCode": "city" }]
+            }
           ]
         }
       ]
