@@ -12,7 +12,6 @@
   "date": "2020-03-11T19:13:16.339365+00:00",
   "publisher": "Ministério da Saúde",
   "description": "Municípios brasileiros",
-  "content": "complete",
   "compose": {
     "include": [
       {
